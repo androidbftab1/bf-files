@@ -1,0 +1,6 @@
+wget http://odroidxu.leeharris.me.uk/PepperFlash-12.0.0.77-armv7h.tar.gz
+tar -xzf PepperFlash-12.0.0.77-armv7h.tar.gz
+#cd PepperFlash
+#chmod +x *
+#sudo cp * /usr/lib/chromium-browser/plugins
+#sudo nano  /etc/chromium-browser/default

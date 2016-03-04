@@ -1,0 +1,6 @@
+
+for IN in `cat 2.dif`
+do
+	echo apt-get install -y $IN
+	apt-get install -y $IN
+done

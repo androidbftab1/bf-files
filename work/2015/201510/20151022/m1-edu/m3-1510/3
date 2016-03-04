@@ -1,0 +1,780 @@
+8,10d7
+< apg
+< app-install-data
+< app-install-data-partner
+19d15
+< apt-xapian-index
+22,24d17
+< aptitude
+< aptitude-common
+< aptitude-doc-en
+61d53
+< btrfs-tools
+74,75d65
+< cgmanager
+< cheese-common
+80,85d69
+< compiz
+< compiz-core
+< compiz-gnome
+< compiz-mate
+< compiz-plugins
+< compiz-plugins-default
+91d74
+< cpp-4.9
+93,94d75
+< cpufrequtils
+< cracklib-runtime
+128d108
+< devio
+132d111
+< diffstat
+134d112
+< dmeventd
+136d113
+< dmraid
+161,163d137
+< evolution-data-server
+< evolution-data-server-common
+< evolution-data-server-online-accounts
+168d141
+< fakeroot
+170,193d142
+< fcitx
+< fcitx-bin
+< fcitx-chewing
+< fcitx-config-common
+< fcitx-config-gtk
+< fcitx-data
+< fcitx-frontend-all
+< fcitx-frontend-gtk2
+< fcitx-frontend-gtk3
+< fcitx-frontend-qt4
+< fcitx-frontend-qt5
+< fcitx-module-cloudpinyin
+< fcitx-module-dbus
+< fcitx-module-kimpanel
+< fcitx-module-lua
+< fcitx-module-x11
+< fcitx-modules
+< fcitx-pinyin
+< fcitx-sunpinyin
+< fcitx-table
+< fcitx-table-cangjie
+< fcitx-table-wubi
+< fcitx-ui-classic
+< fcitx-ui-qimpanel
+199,202d147
+< firefox-locale-en
+< firefox-locale-zh-hans
+< firefox-locale-zh-hant
+< flash-kernel
+207,208d151
+< fonts-arphic-ukai
+< fonts-arphic-uming
+252d194
+< gcc-4.9-base
+264,265d205
+< geoclue
+< geoclue-ubuntu-geoip
+276d215
+< gir1.2-gconf-2.0
+279d217
+< gir1.2-gmenu-3.0
+285d222
+< gir1.2-ibus-1.0
+301d237
+< gkbd-capplet
+306d241
+< gnome-bluetooth
+308d242
+< gnome-desktop3-data
+312d245
+< gnome-menus
+314d246
+< gnome-session-bin
+316d247
+< gnome-settings-daemon-schemas
+318d248
+< gnome-user-share
+320d249
+< gparted
+328,332d256
+< gstreamer0.10-alsa
+< gstreamer0.10-nice
+< gstreamer0.10-plugins-base
+< gstreamer0.10-plugins-good
+< gstreamer0.10-pulseaudio
+334d257
+< gstreamer1.0-clutter
+355,356d277
+< hardening-includes
+< hddtemp
+358d278
+< heirloom-mailx
+361,363d280
+< hexchat-perl
+< hexchat-plugins
+< hexchat-python
+369d285
+< hunspell-en-ca
+372d287
+< hyphen-en-us
+380,382d294
+< indicator-datetime
+< indicator-keyboard
+< indicator-power
+395d306
+< intltool-debian
+397d307
+< ippusbxd
+416,417d325
+< kpartx
+< kpartx-boot
+419,430d326
+< language-pack-en
+< language-pack-en-base
+< language-pack-gnome-en
+< language-pack-gnome-en-base
+< language-pack-gnome-zh-hans
+< language-pack-gnome-zh-hans-base
+< language-pack-gnome-zh-hant
+< language-pack-gnome-zh-hant-base
+< language-pack-zh-hans
+< language-pack-zh-hans-base
+< language-pack-zh-hant
+< language-pack-zh-hant-base
+437d332
+< libabw-0.1-1
+442,445d336
+< libalgorithm-c3-perl
+< libalgorithm-diff-perl
+< libalgorithm-diff-xs-perl
+< libalgorithm-merge-perl
+450d340
+< libapt-inst1.5
+452,453d341
+< libapt-pkg-perl
+< libapt-pkg4.12
+455,456d342
+< libarchive-extract-perl
+< libarchive-zip-perl
+475d360
+< libatkmm-1.6-1
+486d370
+< libauthen-sasl-perl
+495d378
+< libavcodec56
+499d381
+< libavformat56
+501d382
+< libavresample2
+503,505d383
+< libavutil54
+< libb-hooks-endofscope-perl
+< libb-hooks-op-check-perl
+507d384
+< libbareword-filehandles-perl
+515d391
+< libboost-date-time1.55.0
+517d392
+< libboost-filesystem1.55.0
+519d393
+< libboost-iostreams1.55.0
+523d396
+< libboost-system1.55.0
+540d412
+< libcairomm-1.0-1
+543d414
+< libcamel-1.2-52
+559d429
+< libcdr-0.1-1
+561,567d430
+< libcgi-fast-perl
+< libcgi-pm-perl
+< libcgmanager0
+< libcheese-gtk23
+< libcheese7
+< libchewing3
+< libchewing3-data
+570,577d432
+< libclass-accessor-perl
+< libclass-c3-perl
+< libclass-c3-xs-perl
+< libclass-method-modifiers-perl
+< libclass-xsaccessor-perl
+< libclone-perl
+< libcloog-isl4
+< libclucene-contribs1
+579d433
+< libclucene-core1
+581,585d434
+< libclutter-1.0-0
+< libclutter-1.0-common
+< libclutter-gst-2.0-0
+< libclutter-gtk-1.0-0
+< libcmis-0.5-5
+587,590d435
+< libcogl-common
+< libcogl-pango20
+< libcogl-path20
+< libcogl20
+595d439
+< libcompizconfig0
+598,599d441
+< libcpan-changes-perl
+< libcpan-meta-perl
+601d442
+< libcrack2
+612,613d452
+< libcwidget3
+< libcwidget3v5
+616,618d454
+< libdata-optlist-perl
+< libdata-perl-perl
+< libdata-section-perl
+631d466
+< libdecoration0
+633,636d467
+< libdevel-caller-perl
+< libdevel-globaldestruction-perl
+< libdevel-lexalias-perl
+< libdevmapper-event1.02.1
+638d468
+< libdigest-hmac-perl
+643d472
+< libdmraid1.0.0.rc16
+647d475
+< libdouble-conversion1v5
+656d483
+< libdvbpsi9
+659d485
+< libdw1
+661,662d486
+< libebackend-1.2-10
+< libebml4
+664,667d487
+< libebook-1.2-16
+< libebook-contacts-1.2-1
+< libecal-1.2-18
+< libecryptfs0
+669,671d488
+< libedata-book-1.2-25
+< libedata-cal-1.2-27
+< libedataserver-1.2-20
+676d492
+< libemail-valid-perl
+689d504
+< libexiv2-13
+693d507
+< libexporter-tiny-perl
+698,699d511
+< libfakeroot
+< libfarstream-0.1-0
+701,707d512
+< libfcgi-perl
+< libfcitx-config4
+< libfcitx-core0
+< libfcitx-gclient0
+< libfcitx-qt0
+< libfcitx-qt5-1
+< libfcitx-utils0
+712d516
+< libfile-basedir-perl
+714d517
+< libfile-fcntllock-perl
+716d518
+< libfile-slurp-perl
+749,750d550
+< libgdata-common
+< libgdata22
+757d556
+< libgeocode-glib0
+759d557
+< libgetopt-long-descriptive-perl
+778d575
+< libglibmm-2.4-1c2a
+784,787d580
+< libgnome-bluetooth11
+< libgnome-bluetooth13
+< libgnome-control-center1
+< libgnome-desktop-3-10
+790,792d582
+< libgnome-menu-3-0
+< libgnomekbd-common
+< libgnomekbd8
+795,796d584
+< libgoa-1.0-0b
+< libgoa-1.0-common
+802d589
+< libgphoto2-port10
+829d615
+< libgtkmm-2.4-1c2a
+842d627
+< libguvcview-1.0-0
+844,845d628
+< libgweather-3-6
+< libgweather-common
+852d634
+< libhogweed2
+866d647
+< libibus-1.0-5
+869d649
+< libicu52
+879d658
+< libimport-into-perl
+882,883d660
+< libindirect-perl
+< libinput10
+885,886d661
+< libio-pty-perl
+< libio-socket-inet6-perl
+888,891d662
+< libio-string-perl
+< libio-stringy-perl
+< libipc-run-perl
+< libipc-system-simple-perl
+933d703
+< liblexical-sealrequirehints-perl
+936d705
+< liblist-moreutils-perl
+938d706
+< libllvm3.6
+941,944d708
+< liblockfile-bin
+< liblockfile1
+< liblog-message-perl
+< liblog-message-simple-perl
+949d712
+< liblvm2cmd2.02
+957d719
+< libmailtools-perl
+972d733
+< libmatroska6
+978,979d738
+< libmetacity-private2
+< libmetacity-private3
+983d741
+< libmirclient8
+985d742
+< libmircommon3
+987d743
+< libmirprotobuf0
+993,999d748
+< libmodule-build-perl
+< libmodule-implementation-perl
+< libmodule-pluggable-perl
+< libmodule-runtime-perl
+< libmodule-signature-perl
+< libmoo-perl
+< libmoox-handlesvia-perl
+1008d756
+< libmro-compat-perl
+1014,1015d761
+< libmultidimensional-perl
+< libmwaw-0.3-3
+1018,1019d763
+< libnamespace-autoclean-perl
+< libnamespace-clean-perl
+1027,1028d770
+< libnet-dns-perl
+< libnet-domain-tld-perl
+1030,1031d771
+< libnet-ip-perl
+< libnet-smtp-ssl-perl
+1034d773
+< libnettle4
+1058,1059d796
+< liboauth0
+< libodfgen-0.1-1
+1068d804
+< libopenobex1
+1076,1078d811
+< libpackage-constants-perl
+< libpackage-stash-perl
+< libpackage-stash-xs-perl
+1080d812
+< libpadwalker-perl
+1093d824
+< libpangomm-1.4-1
+1099,1102d829
+< libparams-classify-perl
+< libparams-util-perl
+< libparams-validate-perl
+< libparse-debianchangelog-perl
+1105d831
+< libpath-tiny-perl
+1115d840
+< libperlio-gzip-perl
+1122d846
+< libplist2
+1126,1128d849
+< libpod-latex-perl
+< libpod-markdown-perl
+< libpod-readme-perl
+1133d853
+< libpoppler49
+1139,1141d858
+< libpostproc52
+< libpresage-data
+< libpresage1
+1144,1145d860
+< libprotobuf9
+< libprotobuf9v5
+1147d861
+< libproxy1
+1156,1157d869
+< libpwquality-common
+< libpwquality1
+1174d885
+< libqpdf13
+1175a887
+> libqscintilla2-11
+1179,1180d890
+< libqt4-designer
+< libqt4-help
+1183d892
+< libqt4-scripttools
+1185,1186d893
+< libqt4-svg
+< libqt4-test
+1192,1195d898
+< libqt5network5
+< libqt5qml5
+< libqt5quick5
+< libqt5quickwidgets5
+1198d900
+< libqtassistantclient4
+1207c909,910
+< libraspberrypi-bin-nonfree
+---
+> libraspberrypi-dev
+> libraspberrypi-doc
+1213d915
+< libreadline5
+1215d916
+< libregexp-common-perl
+1224,1227d924
+< libreoffice-help-en-gb
+< libreoffice-help-en-us
+< libreoffice-help-zh-cn
+< libreoffice-help-zh-tw
+1229,1232d925
+< libreoffice-l10n-en-gb
+< libreoffice-l10n-en-za
+< libreoffice-l10n-zh-cn
+< libreoffice-l10n-zh-tw
+1242d934
+< librhythmbox-core8
+1245d936
+< librole-tiny-perl
+1248a940,941
+> librtimulib-utils
+> librtimulib7
+1277d969
+< libsidplay2
+1279d970
+< libsigc++-2.0-0c2a
+1291d981
+< libsocket6-perl
+1293d982
+< libsoftware-license-perl
+1311,1317d999
+< libstrictures-perl
+< libsub-exporter-perl
+< libsub-exporter-progressive-perl
+< libsub-identify-perl
+< libsub-install-perl
+< libsub-name-perl
+< libsunpinyin3
+1320d1001
+< libswscale3
+1322d1002
+< libtag1-vanilla
+1329d1008
+< libterm-ui-perl
+1333,1335d1011
+< libtext-levenshtein-perl
+< libtext-soundex-perl
+< libtext-template-perl
+1345d1020
+< libtinyxml2.6.2v5
+1349d1023
+< libtry-tiny-perl
+1352,1353d1025
+< libtype-tiny-perl
+< libtype-tiny-xs-perl
+1357d1028
+< libunicode-utf8-perl
+1363d1033
+< libunity-settings-daemon1
+1374d1043
+< libuuid-perl
+1381d1049
+< libvariable-magic-perl
+1389d1056
+< libvncclient0
+1394d1060
+< libvpx1
+1402,1404d1067
+< libwacom-bin
+< libwacom-common
+< libwacom2
+1446d1108
+< libwps-0.3-3
+1456d1117
+< libx11-protocol-perl
+1458d1118
+< libx264-142
+1461,1462d1120
+< libxapian22
+< libxapian22v5
+1479d1136
+< libxcb-util0
+1504d1160
+< libxp6
+1530,1531d1185
+< lintian
+< linux-base
+1534,1537d1187
+< linux-goldfish-tools-3.4.0-4
+< linux-image-3.18.0-20-rpi2
+< linux-image-3.18.0-25-rpi2
+< linux-image-rpi2
+1540,1543d1189
+< linux-tools-3.4.0-4-goldfish
+< linux-tools-common
+< linux-tools-goldfish
+< lm-sensors
+1545d1190
+< lockfile-progs
+1554d1198
+< lvm2
+1578d1221
+< mate-media-pulse
+1601d1243
+< mate-settings-daemon-pulse
+1615d1256
+< metacity-common
+1617c1258
+< mir-client-platform-mesa2
+---
+> minecraft-pi
+1621d1261
+< module-init-tools
+1624d1263
+< mousetweaks
+1631,1635d1269
+< myspell-en-au
+< myspell-en-gb
+< myspell-en-za
+< mythes-en-au
+< mythes-en-us
+1637d1270
+< nautilus-data
+1651,1652c1284
+< ntpdate
+< obex-data-server
+---
+> nuscratch
+1659,1661d1290
+< oneconf
+< oneconf-common
+< openoffice.org-hyphenation
+1671,1672d1299
+< packagekit
+< packagekit-backend-aptcc
+1676d1302
+< patchutils
+1686d1311
+< pinentry-gnome3
+1699d1323
+< policykit-1-gnome
+1709d1332
+< presage
+1730d1352
+< python-apt
+1732,1733c1354
+< python-aptdaemon
+< python-aptdaemon.gtk3widgets
+---
+> python-astropi
+1735d1355
+< python-blinker
+1740,1742d1359
+< python-cffi
+< python-cffi-backend
+< python-characteristic
+1744a1362,1363
+> python-codebug-i2c-tether
+> python-codebug-tether
+1746d1364
+< python-commandnotfound
+1749d1366
+< python-cryptography
+1752,1754d1368
+< python-debian
+< python-debtagshw
+< python-defer
+1756d1369
+< python-dirspec
+1759d1371
+< python-enum34
+1762d1373
+< python-gi-cairo
+1766d1376
+< python-gst0.10
+1770,1774d1379
+< python-httplib2
+< python-idna
+< python-imaging
+< python-ipaddress
+< python-jwt
+1776d1380
+< python-libxml2
+1778d1381
+< python-lxml
+1779a1383
+> python-minecraftpi
+1782d1385
+< python-notify
+1785,1787d1387
+< python-oauthlib
+< python-oneconf
+< python-openssl
+1788a1389
+> python-picamera
+1791d1391
+< python-piston-mini-client
+1793d1392
+< python-ply
+1795,1797d1393
+< python-pyasn1
+< python-pyasn1-modules
+< python-pycparser
+1799,1800d1394
+< python-qt4
+< python-qt4-dbus
+1801a1396,1397
+> python-rpi.gpio
+> python-rtimulib
+1802a1399
+> python-sense-hat
+1804d1400
+< python-service-identity
+1806d1401
+< python-sip
+1807a1403
+> python-spidev
+1812,1815d1407
+< python-twisted-bin
+< python-twisted-core
+< python-twisted-web
+< python-ubuntu-sso-client
+1820d1411
+< python-xapian
+1823d1413
+< python-zope.interface
+1833c1423
+< python3-blinker
+---
+> python3-astropi
+1836,1837d1425
+< python3-cffi
+< python3-cffi-backend
+1838a1427,1428
+> python3-codebug-i2c-tether
+> python3-codebug-tether
+1842,1843d1431
+< python3-crypto
+< python3-cryptography
+1856d1443
+< python3-httplib2
+1858,1859d1444
+< python3-idna
+< python3-jwt
+1863a1449
+> python3-minecraftpi
+1866,1868d1451
+< python3-oauthlib
+< python3-oneconf
+< python3-packagekit
+1870a1454
+> python3-picamera
+1873d1456
+< python3-piston-mini-client
+1875d1457
+< python3-ply
+1878d1459
+< python3-pyasn1
+1880d1460
+< python3-pycparser
+1885a1466,1468
+> python3-rpi.gpio
+> python3-rtimulib
+> python3-sense-hat
+1891a1475
+> python3-spidev
+1910,1911c1494
+< qttranslations5-l10n
+< raspberrypi-bootloader-nokernel
+---
+> raspberrypi-bootloader
+1912a1496
+> raspi-gpio
+1916d1499
+< rename
+1924c1507
+< rpi2-ubuntu-errata
+---
+> rpi-update
+1940d1522
+< session-migration
+1947d1528
+< smartmontools
+1949,1950d1529
+< software-center
+< software-center-aptdaemon-plugins
+1952a1532
+> sonic-pi
+1962d1541
+< sunpinyin-data
+1974d1552
+< systemd-shim
+1978d1555
+< t1utils
+1980,1981d1556
+< tasksel
+< tasksel-data
+1988,1994d1562
+< thunderbird-locale-en
+< thunderbird-locale-en-gb
+< thunderbird-locale-en-us
+< thunderbird-locale-zh-cn
+< thunderbird-locale-zh-hans
+< thunderbird-locale-zh-hant
+< thunderbird-locale-zh-tw
+2009d1576
+< u-boot-tools
+2023,2024d1589
+< ubuntu-mate-wallpapers-utopic
+< ubuntu-mate-wallpapers-vivid
+2032,2033d1596
+< ubuntu-sso-client
+< ubuntu-sso-client-qt
+2035,2037d1597
+< ubuntu-system-service
+< ubuntu-touch-sounds
+< ubuntuone-client-data
+2043d1602
+< unity-settings-daemon
+2068,2070d1626
+< wamerican
+< watershed
+< wbritish
+2076c1632
+< wmctrl
+---
+> wiringpi
+2119a1676
+> youtube-dlg

@@ -1,0 +1,17 @@
+#sudo apt-get update
+sudo apt-get install -y \
+	apt-utils \
+	openssh-server \
+	build-essential \
+	unzip \
+	sudo \
+	git \
+	mercurial \
+	vim \
+	bc \
+	u-boot-tools \
+	device-tree-compiler \
+	pkg-config \
+	libusb-1.0-0-dev \
+	python-software-properties \
+	software-properties-common

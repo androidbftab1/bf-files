@@ -1,0 +1,6 @@
+
+for IN in `cat a1.lst`
+do
+	echo apt-get install -y $IN
+	apt-get install -y $IN
+done

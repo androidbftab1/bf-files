@@ -1,0 +1,6 @@
+
+for IN in `cat m3a2.dif`
+do
+	echo apt-get install -y $IN
+	apt-get install -y $IN
+done

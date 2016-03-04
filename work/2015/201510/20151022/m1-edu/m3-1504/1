@@ -1,0 +1,618 @@
+0a1,6
+> a2ps
+> account-plugin-aim
+> account-plugin-google
+> account-plugin-jabber
+> account-plugin-salut
+> account-plugin-yahoo
+4a11,15
+> aglfn
+> aisleriot
+> akonadi-backend-mysql
+> akonadi-server
+> alacarte
+7a19,26
+> analitza-common
+> analitza4-common
+> anthy
+> anthy-common
+> apache2
+> apache2-bin
+> apache2-data
+> apache2-utils
+16a36,37
+> apt-offline
+> apt-show-versions
+27a49,54
+> arduino
+> arduino-core
+> arduino-mighty-1284p
+> arduino-mk
+> argyll
+> argyll-ref
+28a56,61
+> aspell-af
+> aspell-ar
+> aspell-cs
+> aspell-da
+> aspell-de
+> aspell-el
+29a63,83
+> aspell-es
+> aspell-fr
+> aspell-ga
+> aspell-hi
+> aspell-hu
+> aspell-id
+> aspell-is
+> aspell-it
+> aspell-kn
+> aspell-ml
+> aspell-mr
+> aspell-nl
+> aspell-pl
+> aspell-pt
+> aspell-pt-br
+> aspell-pt-pt
+> aspell-ro
+> aspell-ru
+> aspell-sv
+> aspell-uk
+> astrometry.net
+32a87,89
+> audacity
+> audacity-data
+> aufs-tools
+34a92
+> autopoint
+40a99,100
+> avr-libc
+> avrdude
+41a102
+> baobab
+47a109
+> binfmt-support
+48a111,113
+> binutils-avr
+> blender
+> blender-data
+49a115,117
+> bluefish
+> bluefish-data
+> bluefish-plugins
+50a119
+> bluetooth
+53a123,126
+> bluez-tools
+> bogofilter
+> bogofilter-bdb
+> bogofilter-common
+56a130
+> breeze-icon-theme
+58a133
+> browser-plugin-gnash
+66a142,143
+> ca-certificates-java
+> cabextract
+73a151,173
+> calibre
+> calibre-bin
+> calligra-data
+> calligra-l10n-cs
+> calligra-l10n-da
+> calligra-l10n-de
+> calligra-l10n-el
+> calligra-l10n-es
+> calligra-l10n-fi
+> calligra-l10n-fr
+> calligra-l10n-hu
+> calligra-l10n-it
+> calligra-l10n-nb
+> calligra-l10n-nl
+> calligra-l10n-pl
+> calligra-l10n-pt
+> calligra-l10n-ptbr
+> calligra-l10n-ru
+> calligra-l10n-sv
+> calligra-l10n-uk
+> calligra-l10n-zhcn
+> calligra-l10n-zhtw
+> calligraplan
+120a221
+> debian-archive-keyring
+121a223,224
+> default-jre
+> default-jre-headless
+140a244,245
+> docbook-xml
+> docbook-xsl
+152a258,259
+> empathy
+> empathy-common
+165a273
+> extra-xdg-menus
+204a313
+> folks-common
+209a319
+> fonts-dejavu-extra
+254a365
+> gcc-avr
+305a417,418
+> gnash
+> gnash-common
+306a420
+> gnome-contacts
+345a460
+> guile-2.0-libs
+373a489,493
+> ibus
+> ibus-chewing
+> ibus-pinyin
+> icedtea-7-jre-jamvm
+> icoutils
+377a498,500
+> imagemagick
+> imagemagick-6.q16
+> imagemagick-common
+379a503
+> indicator-bluetooth
+409a534,538
+> java-common
+> javascript-common
+> kactivities
+> kate-data
+> katepart
+410a540,566
+> kde-l10n-cs
+> kde-l10n-da
+> kde-l10n-de
+> kde-l10n-el
+> kde-l10n-es
+> kde-l10n-fi
+> kde-l10n-fr
+> kde-l10n-hu
+> kde-l10n-it
+> kde-l10n-nb
+> kde-l10n-nl
+> kde-l10n-pl
+> kde-l10n-pt
+> kde-l10n-ptbr
+> kde-l10n-ru
+> kde-l10n-sv
+> kde-l10n-uk
+> kde-l10n-zhcn
+> kde-l10n-zhtw
+> kde-runtime
+> kde-runtime-data
+> kde-style-breeze
+> kde-style-breeze-qt4
+> kdelibs-bin
+> kdelibs5-data
+> kdelibs5-plugins
+> kdoctools
+415a572,573
+> kpackagelauncherqml
+> kpackagetool5
+418a577,579
+> kubuntu-debug-installer
+> kwayland-data
+> kwayland-integration
+438a600,602
+> libaccount-plugin-1.0-0
+> libaccount-plugin-generic-oauth
+> libaccount-plugin-google
+439a604
+> libaccounts-qt5-1
+441a607,610
+> libaio1
+> libakonadi-contact4
+> libakonadi-kde4
+> libakonadiprotocolinternals1
+445a615
+> libanthy0
+449a620,623
+> libapr1
+> libaprutil1
+> libaprutil1-dbd-sqlite3
+> libaprutil1-ldap
+472a647,648
+> libatk-wrapper-java
+> libatk-wrapper-java-jni
+481a658
+> libattica0.4
+492a670
+> libavahi-gobject0
+520a699
+> libboost-locale1.58.0
+552a732
+> libcauchy0.0v5
+560a741
+> libcfitsio2
+563a745
+> libchamplain-0.12-0
+567a750
+> libchm1
+625a809,810
+> libdbusmenu-qt2
+> libdbusmenu-qt5
+641a827
+> libdlrestrictions1
+643a830
+> libdmtx0a
+671a859
+> libedataserverui-1.2-1
+698a887
+> libfam0
+710a900
+> libfftw3-double3
+716a907
+> libflac++6v5
+719a911,913
+> libfolks-eds25
+> libfolks-telepathy25
+> libfolks25
+735a930
+> libftdi1
+739a935
+> libgc1c2
+792a989,990
+> libgnomevfs2-0
+> libgnomevfs2-common
+870a1069
+> libid3tag0
+876a1076
+> libilmbase12
+907a1108,1110
+> libjemalloc1
+> libjna-java
+> libjna-jni
+910a1114
+> libjs-jquery-ui
+912a1117,1118
+> libjs-sphinxdoc
+> libjs-underscore
+917a1124,1125
+> libkabc4
+> libkactivities6
+918a1127,1137
+> libkatepartinterfaces4
+> libkcalcore4
+> libkcmutils4
+> libkde3support4
+> libkdeclarative5
+> libkdecore5
+> libkdesu5
+> libkdeui5
+> libkdewebkit5
+> libkdnssd4
+> libkemoticons4
+919a1139,1209
+> libkf5activities5
+> libkf5akonadiprivate5
+> libkf5archive5
+> libkf5attica5
+> libkf5auth-data
+> libkf5auth5
+> libkf5codecs-data
+> libkf5codecs5
+> libkf5completion-data
+> libkf5completion5
+> libkf5config-bin
+> libkf5config-data
+> libkf5configcore5
+> libkf5configgui5
+> libkf5configwidgets-data
+> libkf5configwidgets5
+> libkf5coreaddons-data
+> libkf5coreaddons5
+> libkf5crash5
+> libkf5dbusaddons-bin
+> libkf5dbusaddons-data
+> libkf5dbusaddons5
+> libkf5declarative-data
+> libkf5declarative5
+> libkf5globalaccel-bin
+> libkf5globalaccel-data
+> libkf5globalaccel5
+> libkf5globalaccelprivate5
+> libkf5guiaddons5
+> libkf5i18n-data
+> libkf5i18n5
+> libkf5iconthemes-bin
+> libkf5iconthemes-data
+> libkf5iconthemes5
+> libkf5idletime5
+> libkf5itemviews-data
+> libkf5itemviews5
+> libkf5jobwidgets-data
+> libkf5jobwidgets5
+> libkf5kiocore5
+> libkf5kiowidgets5
+> libkf5notifications-data
+> libkf5notifications5
+> libkf5package-data
+> libkf5package5
+> libkf5plasma5
+> libkf5plasmaquick5
+> libkf5quickaddons5
+> libkf5service-bin
+> libkf5service-data
+> libkf5service5
+> libkf5sonnet5-data
+> libkf5sonnetcore5
+> libkf5sonnetui5
+> libkf5style5
+> libkf5textwidgets-data
+> libkf5textwidgets5
+> libkf5waylandclient5
+> libkf5widgetsaddons-data
+> libkf5widgetsaddons5
+> libkf5windowsystem-data
+> libkf5windowsystem5
+> libkf5xmlgui-bin
+> libkf5xmlgui-data
+> libkf5xmlgui5
+> libkfile4
+> libkhtml5
+> libkio5
+> libkjsapi4
+> libkjsembed4
+> libkldap4
+920a1211,1212
+> libkmediaplayer4
+> libkmime4
+921a1214,1217
+> libknewstuff3-4
+> libknotifyconfig4
+> libkntlm4
+> libkparts4
+922a1219,1220
+> libkpimutils4
+> libkpty4
+925a1224,1228
+> libkresources4
+> libkrosscore4
+> libkrossui4
+> libktexteditor4
+> libkxmlrpcclient4
+946a1250
+> liblqr-1-0
+947a1252
+> liblua5.1-0
+954a1260
+> libm2mml0.0v5
+956a1263,1265
+> libmagickcore-6.q16-2
+> libmagickcore-6.q16-2-extra
+> libmagickwand-6.q16-2
+988a1298
+> libmission-control-plugins0
+1008a1319
+> libmspack0
+1016a1328
+> libmysqlclient18
+1033a1346
+> libnetpbm10
+1057a1371,1372
+> libntrack-qt4-1
+> libntrack0
+1064a1380,1381
+> libopencc1
+> libopencolorio1v5
+1065a1383
+> libopencv-highgui2.4v5
+1066a1385,1386
+> libopenexr22
+> libopenimageio1.5v5
+1116a1437,1439
+> libphonon4
+> libphonon4qt5-4
+> libphononexperimental4
+1120a1444
+> libplasma3
+1128a1453
+> libpodofo0.9.0v5
+1131a1457,1458
+> libpolkit-qt-1-1
+> libpolkit-qt5-1-1
+1137a1465
+> libportsmf0v5
+1141a1470
+> libprison0
+1171a1501,1507
+> libpyzy-1.0-0v5
+> libqapt3
+> libqapt3-runtime
+> libqca2-plugin-ossl
+> libqca2-plugins
+> libqca2v5
+> libqjson0
+1175a1512
+> libqrencode3
+1182a1520,1521
+> libqt4-opengl
+> libqt4-qt3support
+1189a1529
+> libqt5clucene5
+1191a1532
+> libqt5designer5
+1192a1534
+> libqt5help5
+1193a1536,1537
+> libqt5opengl5
+> libqt5printsupport5
+1196a1541,1548
+> libqt5script5
+> libqt5sql5
+> libqt5sql5-mysql
+> libqt5sql5-sqlite
+> libqt5svg5
+> libqt5test5
+> libqt5waylandclient5
+> libqt5webkit5
+1198a1551
+> libqt5xml5
+1253a1607
+> librxtx-java
+1261a1616
+> libsbsms10
+1263a1619
+> libsctp1
+1283a1640
+> libsignon-extension1
+1284a1642,1643
+> libsignon-plugins-common1
+> libsignon-qt5-1
+1296a1656
+> libsolid4
+1297a1658,1659
+> libsoprano4
+> libsoundtouch0
+1304a1667
+> libspnav0
+1313a1677,1678
+> libstreamanalyzer0v5
+> libstreams0v5
+1331a1697,1699
+> libtelepathy-farstream3
+> libtelepathy-glib0
+> libtelepathy-logger3
+1342a1711,1712
+> libthreadweaver4
+> libtidy-0.99-0
+1376a1747
+> libutempter0
+1383a1755
+> libvamp-hostsdk3v5
+1393a1766
+> libvoikko1v5
+1441a1815
+> libwmf0.2-7
+1454a1829
+> libwxbase3.0-0v5
+1456a1832
+> libwxgtk3.0-0v5
+1468a1845
+> libxcb-damage0
+1504a1882
+> libxml2-utils
+1523a1902
+> libyaml-cpp0.3v5
+1524a1904
+> libzeitgeist-2.0-0
+1545a1926
+> lksctp-tools
+1614a1996
+> mcp-account-manager-uoa
+1637a2020,2022
+> mysql-client-core-5.6
+> mysql-common
+> mysql-server-core-5.6
+1647a2033
+> netpbm
+1655a2042
+> ntrack-module-libnl-0
+1664a2052,2053
+> openjdk-7-jre
+> openjdk-7-jre-headless
+1671a2061
+> oxygen-icon-theme
+1685a2076,2078
+> phonon
+> phonon-backend-gstreamer
+> phonon-backend-gstreamer-common
+1693a2087,2088
+> plasma-framework
+> plasma-scriptengine-javascript
+1728a2124
+> psutils
+1733a2130
+> python-apsw
+1738a2136
+> python-beautifulsoup
+1747a2146
+> python-cherrypy3
+1755a2155,2157
+> python-cssselect
+> python-cssutils
+> python-dateutil
+1760a2163
+> python-defusedxml
+1764a2168
+> python-dnspython
+1765a2170,2171
+> python-feedparser
+> python-funcsigs
+1784a2191,2192
+> python-magic
+> python-markdown
+1785a2194
+> python-mechanize
+1805a2215
+> python-pyfits
+1806a2217,2221
+> python-pygments
+> python-pyparsing
+> python-pyqt5
+> python-pyqt5.qtsvg
+> python-pyqt5.qtwebkit
+1808a2224
+> python-repoze.lru
+1809a2226
+> python-routes
+1817a2235
+> python-soappy
+1827a2246,2247
+> python-utidylib
+> python-webob
+1828a2249
+> python-wstools
+1833a2255
+> python-yaml
+1920a2343
+> qapt-batch
+1922a2346,2354
+> qml-module-org-kde-activities
+> qml-module-org-kde-kquickcontrols
+> qml-module-org-kde-kquickcontrolsaddons
+> qml-module-qtquick-controls
+> qml-module-qtquick-dialogs
+> qml-module-qtquick-layouts
+> qml-module-qtquick-privatewidgets
+> qml-module-qtquick-window2
+> qml-module-qtquick2
+1928a2361
+> qtwayland5
+1956a2390
+> screen
+1962a2397
+> sgml-data
+1965a2401,2407
+> signon-keyring-extension
+> signon-plugin-oauth2
+> signon-plugin-password
+> signon-ui
+> signon-ui-service
+> signon-ui-x11
+> signond
+1973a2416,2417
+> sonnet-plugins
+> soprano-daemon
+2006a2451,2455
+> telepathy-gabble
+> telepathy-haze
+> telepathy-logger
+> telepathy-mission-control-5
+> telepathy-salut
+2026a2476
+> ttf-dejavu-core
+2029a2480
+> tzdata-java
+2063a2515,2517
+> unity-asset-pool
+> unity-control-center
+> unity-control-center-signon
+2091a2546
+> wdiff
+2142a2598
+> zeitgeist-core

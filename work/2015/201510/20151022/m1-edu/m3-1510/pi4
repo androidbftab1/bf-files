@@ -1,0 +1,6 @@
+
+for IN in `cat 4.dif`
+do
+	echo apt-get install -y $IN
+	apt-get install -y $IN
+done

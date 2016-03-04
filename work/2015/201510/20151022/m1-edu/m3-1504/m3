@@ -1,0 +1,3330 @@
+0a1,6
+> a2ps
+> account-plugin-aim
+> account-plugin-google
+> account-plugin-jabber
+> account-plugin-salut
+> account-plugin-yahoo
+4a11,15
+> aglfn
+> aisleriot
+> akonadi-backend-mysql
+> akonadi-server
+> alacarte
+7a19,27
+> analitza-common
+> analitza4-common
+> anthy
+> anthy-common
+> apache2
+> apache2-bin
+> apache2-data
+> apache2-utils
+> apache2.2-bin
+16a37,38
+> apt-offline
+> apt-show-versions
+27a50,55
+> arduino
+> arduino-core
+> arduino-mighty-1284p
+> arduino-mk
+> argyll
+> argyll-ref
+28a57,62
+> aspell-af
+> aspell-ar
+> aspell-cs
+> aspell-da
+> aspell-de
+> aspell-el
+29a64,84
+> aspell-es
+> aspell-fr
+> aspell-ga
+> aspell-hi
+> aspell-hu
+> aspell-id
+> aspell-is
+> aspell-it
+> aspell-kn
+> aspell-ml
+> aspell-mr
+> aspell-nl
+> aspell-pl
+> aspell-pt
+> aspell-pt-br
+> aspell-pt-pt
+> aspell-ro
+> aspell-ru
+> aspell-sv
+> aspell-uk
+> astrometry.net
+33,34c88,91
+< autoconf
+< automake
+---
+> audacity
+> audacity-data
+> aufs-tools
+> autopoint
+40a98,99
+> avr-libc
+> avrdude
+41a101
+> baobab
+47a108
+> binfmt-support
+48a110,112
+> binutils-avr
+> blender
+> blender-data
+49a114,116
+> bluefish
+> bluefish-data
+> bluefish-plugins
+50a118
+> bluetooth
+51a120
+> bluez-alsa
+53c122,126
+< bluez-obexd
+---
+> bluez-gstreamer
+> bluez-tools
+> bogofilter
+> bogofilter-bdb
+> bogofilter-common
+58a132
+> browser-plugin-gnash
+66a141,142
+> ca-certificates-java
+> cabextract
+73c149,182
+< caja-wallpaper
+---
+> calibre
+> calibre-bin
+> calligra-data
+> calligra-l10n-cs
+> calligra-l10n-da
+> calligra-l10n-de
+> calligra-l10n-el
+> calligra-l10n-es
+> calligra-l10n-fi
+> calligra-l10n-fr
+> calligra-l10n-hu
+> calligra-l10n-it
+> calligra-l10n-nb
+> calligra-l10n-nl
+> calligra-l10n-pl
+> calligra-l10n-pt
+> calligra-l10n-ptbr
+> calligra-l10n-ru
+> calligra-l10n-sv
+> calligra-l10n-uk
+> calligra-l10n-zhcn
+> calligra-l10n-zhtw
+> calligraplan
+> cantor
+> cantor-backend-kalgebra
+> cardpeek
+> cardpeek-data
+> caribou
+> caribou-antler
+> catfish
+> cdparanoia
+> cdrdao
+> celestia-common
+> celestia-gnome
+74a184,188
+> cgroup-bin
+> cgroup-lite
+> cgroupfs-mount
+> checkinstall
+> cheese
+75a190,198
+> chemical-mime-data
+> chemtool
+> chromium-browser
+> chromium-browser-l10n
+> chromium-codecs-ffmpeg-extra
+> cifs-utils
+> cli-common
+> codeblocks
+> codeblocks-common
+87a211
+> consolekit
+90a215,216
+> cpp-4.6
+> cpp-4.8
+92d217
+< cpp-5
+118a244
+> dconf-tools
+120a247,250
+> debconf-utils
+> debhelper
+> debian-reference-common
+> debian-reference-en
+121a252,253
+> default-jre
+> default-jre-headless
+126c258
+< deja-dup-caja
+---
+> desktop-base
+127a260
+> device-tree-compiler
+128a262
+> dh-apparmor
+129a264,268
+> dia
+> dia-common
+> dia-gnome
+> dia-libs
+> dia-shapes
+133a273,274
+> dillo
+> dleyna-server
+140a282,285
+> doc-base
+> docbook-xml
+> docbook-xsl
+> docker.io
+141a287
+> dphys-swapfile
+144a291
+> driconf
+146a294,295
+> dvdauthor
+> dvgrab
+152a302,303
+> empathy
+> empathy-common
+155a307
+> eog
+157a310,312
+> epiphany-browser
+> epiphany-browser-data
+> esound-common
+160a316,319
+> evince
+> evince-common
+> evolution
+> evolution-common
+163a323
+> evolution-plugins
+165a326,327
+> exo-utils
+> extra-xdg-menus
+166a329
+> fairymax
+180a344,346
+> fcitx-libs
+> fcitx-libs-gclient
+> fcitx-libs-qt
+189a356,357
+> fcitx-table-array30
+> fcitx-table-boshiamy
+190a359
+> fcitx-table-cangjie5
+195d363
+< ffmpegthumbnailer
+196a365,367
+> file-roller
+> filezilla
+> filezilla-common
+197a369
+> finger
+198a371,380
+> firefox-locale-af
+> firefox-locale-ar
+> firefox-locale-ast
+> firefox-locale-be
+> firefox-locale-bg
+> firefox-locale-bn
+> firefox-locale-cs
+> firefox-locale-da
+> firefox-locale-de
+> firefox-locale-el
+199a382,409
+> firefox-locale-es
+> firefox-locale-fi
+> firefox-locale-fr
+> firefox-locale-ga
+> firefox-locale-hi
+> firefox-locale-hu
+> firefox-locale-id
+> firefox-locale-is
+> firefox-locale-it
+> firefox-locale-ja
+> firefox-locale-kn
+> firefox-locale-ko
+> firefox-locale-ml
+> firefox-locale-mn
+> firefox-locale-mr
+> firefox-locale-nb
+> firefox-locale-nl
+> firefox-locale-nn
+> firefox-locale-pl
+> firefox-locale-pt
+> firefox-locale-ro
+> firefox-locale-ru
+> firefox-locale-sv
+> firefox-locale-sw
+> firefox-locale-th
+> firefox-locale-tr
+> firefox-locale-uk
+> firefox-locale-vi
+201a412
+> five-or-more
+202a414
+> flex
+204a417
+> folks-common
+206a420
+> fonts-arabeyes
+208a423,433
+> fonts-beng-extra
+> fonts-cantarell
+> fonts-cns11643-kai
+> fonts-cns11643-sung
+> fonts-cwtex-docs
+> fonts-cwtex-fs
+> fonts-cwtex-heib
+> fonts-cwtex-kai
+> fonts-cwtex-ming
+> fonts-cwtex-yen
+> fonts-dejavu
+209a435,436
+> fonts-dejavu-extra
+> fonts-deva-extra
+210a438
+> fonts-dustin
+211a440,442
+> fonts-gargi
+> fonts-gubbi
+> fonts-gujr-extra
+215a447
+> fonts-kalapi
+219a452,456
+> fonts-lmodern
+> fonts-lohit-beng-assamese
+> fonts-lohit-beng-bengali
+> fonts-lohit-deva
+> fonts-lohit-gujr
+220a458,464
+> fonts-lohit-knda
+> fonts-lohit-orya
+> fonts-lohit-taml
+> fonts-lohit-taml-classical
+> fonts-lohit-telu
+> fonts-lyx
+> fonts-manchufont
+221a466,468
+> fonts-mgopen
+> fonts-moe-standard-kai
+> fonts-moe-standard-song
+222a470,471
+> fonts-nanum-coding
+> fonts-navilu
+224a474,476
+> fonts-orya-extra
+> fonts-roboto
+> fonts-sarai
+225a478,481
+> fonts-sil-andika
+> fonts-sil-doulos
+> fonts-sil-gentium
+> fonts-sil-gentium-basic
+226a483,485
+> fonts-stix
+> fonts-takao-gothic
+> fonts-takao-mincho
+227a487
+> fonts-telu-extra
+242a503
+> fonts-unfonts-core
+243a505,511
+> fotowall
+> four-in-a-row
+> freemind
+> freemind-doc
+> freepats
+> freerdp-x11
+> frei0r-plugins
+244a513,514
+> fritzing
+> fritzing-data
+248c518,520
+< g++-5
+---
+> g++-4.6
+> g++-4.8
+> g++-4.9
+250a523
+> gcalctool
+251a525,530
+> gcc-4.6
+> gcc-4.6-base
+> gcc-4.7-base
+> gcc-4.8
+> gcc-4.8-base
+> gcc-4.9
+253d531
+< gcc-5
+254a533,563
+> gcc-avr
+> gcompris
+> gcompris-data
+> gcompris-sound-af
+> gcompris-sound-ar
+> gcompris-sound-ast
+> gcompris-sound-bg
+> gcompris-sound-cs
+> gcompris-sound-da
+> gcompris-sound-de
+> gcompris-sound-el
+> gcompris-sound-en
+> gcompris-sound-es
+> gcompris-sound-fi
+> gcompris-sound-fr
+> gcompris-sound-hi
+> gcompris-sound-hu
+> gcompris-sound-id
+> gcompris-sound-it
+> gcompris-sound-kn
+> gcompris-sound-mr
+> gcompris-sound-nb
+> gcompris-sound-nl
+> gcompris-sound-nn
+> gcompris-sound-pt
+> gcompris-sound-ptbr
+> gcompris-sound-ru
+> gcompris-sound-sv
+> gcompris-sound-th
+> gcompris-sound-tr
+> gcompris-sound-zhcn
+259a569,570
+> gdb
+> gdbserver
+262a574,577
+> gdm
+> gedit
+> gedit-common
+> gedit-plugins
+264a580,582
+> geoclue-hostip
+> geoclue-localnet
+> geoclue-manual
+265a584,585
+> geoclue-yahoo
+> geogebra
+270a591,610
+> giblib1
+> gigolo
+> gimp
+> gimp-data
+> gimp-help-common
+> gimp-help-da
+> gimp-help-de
+> gimp-help-el
+> gimp-help-en
+> gimp-help-es
+> gimp-help-fr
+> gimp-help-it
+> gimp-help-ja
+> gimp-help-ko
+> gimp-help-nl
+> gimp-help-nn
+> gimp-help-pt
+> gimp-help-ru
+> gimp-help-sv
+> gir1.2-accountsservice-1.0
+274a615,624
+> gir1.2-caribou-1.0
+> gir1.2-clutter-1.0
+> gir1.2-clutter-gst-1.0
+> gir1.2-clutter-gst-2.0
+> gir1.2-cogl-1.0
+> gir1.2-coglpango-1.0
+> gir1.2-ebookcontacts-1.2
+> gir1.2-edataserver-1.2
+> gir1.2-evince-3.0
+> gir1.2-folks-0.6
+275a626
+> gir1.2-gck-1
+276a628,630
+> gir1.2-gcr-3
+> gir1.2-gdata-0.0
+> gir1.2-gdesktopenums-3.0
+277a632,635
+> gir1.2-gdm-1.0
+> gir1.2-gee-0.8
+> gir1.2-gee-1.0
+> gir1.2-gkbd-3.0
+279a638,639
+> gir1.2-gnomebluetooth-1.0
+> gir1.2-gnomedesktop-3.0
+280a641,642
+> gir1.2-goa-1.0
+> gir1.2-gst-plugins-base-0.10
+281a644
+> gir1.2-gstreamer-0.10
+284a648,652
+> gir1.2-gtkclutter-1.0
+> gir1.2-gtksource-3.0
+> gir1.2-gtop-2.0
+> gir1.2-gucharmap-2.90
+> gir1.2-gudev-1.0
+287a656
+> gir1.2-keybinder-3.0
+288a658,660
+> gir1.2-mutter-3.0
+> gir1.2-networkmanager-1.0
+> gir1.2-nmgtk-1.0
+290a663
+> gir1.2-panelapplet-5.0
+292a666
+> gir1.2-polkit-1.0
+293a668
+> gir1.2-rest-0.7
+295a671,672
+> gir1.2-telepathyglib-0.12
+> gir1.2-telepathylogger-0.2
+296a674,678
+> gir1.2-totem-1.0
+> gir1.2-totem-plparser-1.0
+> gir1.2-tracker-1.0
+> gir1.2-upowerglib-1.0
+> gir1.2-vte-2.90
+300a683,688
+> gir1.2-zeitgeist-2.0
+> gir1.2-zpj-0.0
+> git
+> git-core
+> git-man
+> gjs
+302a691
+> glchess
+305a695,706
+> glines
+> gmusicbrowser
+> gnash
+> gnash-common
+> gnect
+> gnibbles
+> gnobots2
+> gnome
+> gnome-accessibility-themes
+> gnome-applets
+> gnome-applets-data
+> gnome-backgrounds
+306a708,713
+> gnome-calculator
+> gnome-chess
+> gnome-color-manager
+> gnome-contacts
+> gnome-control-center
+> gnome-control-center-data
+307a715,717
+> gnome-core
+> gnome-desktop-data
+> gnome-desktop-environment
+308a719,726
+> gnome-dictionary
+> gnome-disk-utility
+> gnome-documents
+> gnome-extra-icons
+> gnome-flashback
+> gnome-flashback-common
+> gnome-font-viewer
+> gnome-games
+309a728,729
+> gnome-icon-theme-extras
+> gnome-icon-theme-full
+310a731
+> gnome-js-common
+311a733,735
+> gnome-klotski
+> gnome-mahjongg
+> gnome-media
+312a737,742
+> gnome-mime-data
+> gnome-mines
+> gnome-nettool
+> gnome-nibbles
+> gnome-online-accounts
+> gnome-online-miners
+313a744,754
+> gnome-packagekit
+> gnome-packagekit-data
+> gnome-packagekit-session
+> gnome-panel
+> gnome-panel-data
+> gnome-power-manager
+> gnome-robots
+> gnome-screensaver
+> gnome-screenshot
+> gnome-search-tool
+> gnome-session
+315a757,759
+> gnome-session-common
+> gnome-session-flashback
+> gnome-settings-daemon
+316a761,767
+> gnome-shell
+> gnome-shell-common
+> gnome-shell-extensions
+> gnome-sudoku
+> gnome-sushi
+> gnome-system-log
+> gnome-system-monitor
+317a769,776
+> gnome-terminal
+> gnome-terminal-data
+> gnome-tetravex
+> gnome-themes-extras
+> gnome-themes-standard
+> gnome-themes-standard-data
+> gnome-tweak-tool
+> gnome-user-guide
+318a778,786
+> gnome-video-effects
+> gnomine
+> gnotravex
+> gnotski
+> gnuchess
+> gnuchess-book
+> gnumeric
+> gnumeric-common
+> gnumeric-doc
+319a788,792
+> gnuplot
+> gnuplot-data
+> gnuplot-nox
+> gnuplot-qt
+> gnuplot-tex
+321a795
+> gpicview
+322a797,800
+> greybird-gtk-theme
+> grilo-plugins-0.2-base
+> grilo-plugins-0.2-extra
+> groff
+327a806
+> gsfonts-x11
+328a808,809
+> gstreamer0.10-fluendo-mp3
+> gstreamer0.10-gconf
+329a811,812
+> gstreamer0.10-plugins-bad
+> gstreamer0.10-plugins-bad-multiverse
+330a814
+> gstreamer0.10-plugins-base-apps
+331a816
+> gstreamer0.10-plugins-ugly
+332a818,819
+> gstreamer0.10-tools
+> gstreamer0.10-x
+334a822,823
+> gstreamer1.0-fluendo-mp3
+> gstreamer1.0-libav
+335a825,827
+> gstreamer1.0-plugins-bad
+> gstreamer1.0-plugins-bad-faad
+> gstreamer1.0-plugins-bad-videoparsers
+337a830,831
+> gstreamer1.0-plugins-ugly
+> gstreamer1.0-plugins-ugly-amr
+340a835,837
+> gtali
+> gtk-im-libthai
+> gtk-theme-config
+343a841
+> gtk2-engines-xfce
+345a844
+> guile-2.0-libs
+354a854,855
+> hamster-applet
+> hamster-indicator
+355a857
+> hardlink
+358d859
+< heirloom-mailx
+361,363c862
+< hexchat-perl
+< hexchat-plugins
+< hexchat-python
+---
+> hexedit
+364a864
+> hoichess
+367a868
+> html2text
+368a870,875
+> hunspell-ar
+> hunspell-be
+> hunspell-da
+> hunspell-de-at
+> hunspell-de-ch
+> hunspell-de-de
+370a878,886
+> hunspell-fr
+> hunspell-fr-classical
+> hunspell-hu
+> hunspell-ko
+> hunspell-ml
+> hunspell-ro
+> hunspell-ru
+> hunspell-sv-se
+> hunspell-vi
+371a888,890
+> hyphen-af
+> hyphen-bn
+> hyphen-de
+373,374c892,927
+< i2c-tools
+< ideviceinstaller
+---
+> hyphen-fr
+> hyphen-hi
+> hyphen-hu
+> hyphen-it
+> hyphen-kn
+> hyphen-mr
+> hyphen-pl
+> hyphen-ro
+> hyphen-ru
+> hyphen-sv
+> iagno
+> ibus
+> ibus-anthy
+> ibus-chewing
+> ibus-gtk
+> ibus-gtk3
+> ibus-hangul
+> ibus-pinyin
+> ibus-sunpinyin
+> ibus-table
+> ibus-table-cangjie3
+> ibus-table-cangjie5
+> ibus-table-quick-classic
+> ibus-table-wubi
+> ibus-unikey
+> icedtea-6-jre-cacao
+> icedtea-6-jre-jamvm
+> icedtea-7-jre-jamvm
+> icedtea-netx
+> icedtea-netx-common
+> icoutils
+> idle
+> idle-python2.7
+> idle-python3.4
+> idle3
+> ifplugd
+376d928
+< ifuse
+377a930,937
+> imagemagick
+> imagemagick-6.q16
+> imagemagick-common
+> imagination
+> imagination-common
+> indi-bin
+> indicator-applet
+> indicator-applet-complete
+379c939
+< indicator-application-gtk2
+---
+> indicator-bluetooth
+381a942
+> indicator-messages
+382a944,945
+> indicator-printers
+> indicator-session
+384d946
+< indicator-sound-gtk2
+390a953
+> inkscape
+394d956
+< intltool
+397d958
+< ippusbxd
+400a962
+> iputils-arping
+409a972,989
+> java-common
+> java-wrappers
+> javahelp2
+> javascript-common
+> junit
+> junit4
+> k3b
+> k3b-data
+> k3b-i18n
+> kactivities
+> kalgebra
+> kalgebra-common
+> kalzium
+> kalzium-data
+> kanagram
+> kate-data
+> katepart
+> kazam
+410a991,1040
+> kbruch
+> kde-l10n-ar
+> kde-l10n-bg
+> kde-l10n-cs
+> kde-l10n-da
+> kde-l10n-de
+> kde-l10n-el
+> kde-l10n-engb
+> kde-l10n-es
+> kde-l10n-fi
+> kde-l10n-fr
+> kde-l10n-ga
+> kde-l10n-hi
+> kde-l10n-hu
+> kde-l10n-ia
+> kde-l10n-id
+> kde-l10n-is
+> kde-l10n-it
+> kde-l10n-ja
+> kde-l10n-ko
+> kde-l10n-mr
+> kde-l10n-nb
+> kde-l10n-nds
+> kde-l10n-nl
+> kde-l10n-nn
+> kde-l10n-pl
+> kde-l10n-pt
+> kde-l10n-ptbr
+> kde-l10n-ro
+> kde-l10n-ru
+> kde-l10n-sv
+> kde-l10n-th
+> kde-l10n-tr
+> kde-l10n-uk
+> kde-l10n-vi
+> kde-l10n-wa
+> kde-l10n-zhcn
+> kde-l10n-zhtw
+> kde-runtime
+> kde-runtime-data
+> kdeedu-data
+> kdeedu-kvtml-data
+> kdelibs-bin
+> kdelibs5-data
+> kdelibs5-plugins
+> kdenlive
+> kdenlive-data
+> kdepim-runtime
+> kdepimlibs-kio-plugins
+> kdoctools
+413a1044,1049
+> kgeography
+> kgeography-data
+> khangman
+> kig
+> klettres
+> klettres-data
+415a1052,1054
+> kmplot
+> kpackagelauncherqml
+> kpackagetool5
+418a1058,1096
+> krita
+> krita-data
+> kross
+> krosspython
+> kstars
+> kstars-data
+> ktexteditor-data
+> ktexteditor-katepart
+> ktouch
+> ktouch-data
+> ktuberling
+> kturtle
+> kubuntu-debug-installer
+> kwordquiz
+> laby
+> language-pack-af
+> language-pack-af-base
+> language-pack-ar
+> language-pack-ar-base
+> language-pack-ast
+> language-pack-ast-base
+> language-pack-be
+> language-pack-be-base
+> language-pack-bg
+> language-pack-bg-base
+> language-pack-bn
+> language-pack-bn-base
+> language-pack-bo
+> language-pack-bo-base
+> language-pack-cs
+> language-pack-cs-base
+> language-pack-da
+> language-pack-da-base
+> language-pack-de
+> language-pack-de-base
+> language-pack-dz
+> language-pack-dz-base
+> language-pack-el
+> language-pack-el-base
+420a1099,1130
+> language-pack-es
+> language-pack-es-base
+> language-pack-fi
+> language-pack-fi-base
+> language-pack-fr
+> language-pack-fr-base
+> language-pack-ga
+> language-pack-ga-base
+> language-pack-gnome-af
+> language-pack-gnome-af-base
+> language-pack-gnome-ar
+> language-pack-gnome-ar-base
+> language-pack-gnome-ast
+> language-pack-gnome-ast-base
+> language-pack-gnome-be
+> language-pack-gnome-be-base
+> language-pack-gnome-bg
+> language-pack-gnome-bg-base
+> language-pack-gnome-bn
+> language-pack-gnome-bn-base
+> language-pack-gnome-bo
+> language-pack-gnome-bo-base
+> language-pack-gnome-cs
+> language-pack-gnome-cs-base
+> language-pack-gnome-da
+> language-pack-gnome-da-base
+> language-pack-gnome-de
+> language-pack-gnome-de-base
+> language-pack-gnome-dz
+> language-pack-gnome-dz-base
+> language-pack-gnome-el
+> language-pack-gnome-el-base
+422a1133,1190
+> language-pack-gnome-es
+> language-pack-gnome-es-base
+> language-pack-gnome-fi
+> language-pack-gnome-fi-base
+> language-pack-gnome-fr
+> language-pack-gnome-fr-base
+> language-pack-gnome-ga
+> language-pack-gnome-ga-base
+> language-pack-gnome-hi
+> language-pack-gnome-hi-base
+> language-pack-gnome-hu
+> language-pack-gnome-hu-base
+> language-pack-gnome-id
+> language-pack-gnome-id-base
+> language-pack-gnome-is
+> language-pack-gnome-is-base
+> language-pack-gnome-it
+> language-pack-gnome-it-base
+> language-pack-gnome-ja
+> language-pack-gnome-ja-base
+> language-pack-gnome-kn
+> language-pack-gnome-kn-base
+> language-pack-gnome-ko
+> language-pack-gnome-ko-base
+> language-pack-gnome-ml
+> language-pack-gnome-ml-base
+> language-pack-gnome-mn
+> language-pack-gnome-mn-base
+> language-pack-gnome-mr
+> language-pack-gnome-mr-base
+> language-pack-gnome-my
+> language-pack-gnome-my-base
+> language-pack-gnome-nb
+> language-pack-gnome-nb-base
+> language-pack-gnome-nds
+> language-pack-gnome-nds-base
+> language-pack-gnome-nl
+> language-pack-gnome-nl-base
+> language-pack-gnome-nn
+> language-pack-gnome-nn-base
+> language-pack-gnome-pl
+> language-pack-gnome-pl-base
+> language-pack-gnome-pt
+> language-pack-gnome-pt-base
+> language-pack-gnome-ro
+> language-pack-gnome-ro-base
+> language-pack-gnome-ru
+> language-pack-gnome-ru-base
+> language-pack-gnome-sv
+> language-pack-gnome-sv-base
+> language-pack-gnome-th
+> language-pack-gnome-th-base
+> language-pack-gnome-tr
+> language-pack-gnome-tr-base
+> language-pack-gnome-uk
+> language-pack-gnome-uk-base
+> language-pack-gnome-vi
+> language-pack-gnome-vi-base
+426a1195,1245
+> language-pack-hi
+> language-pack-hi-base
+> language-pack-hu
+> language-pack-hu-base
+> language-pack-id
+> language-pack-id-base
+> language-pack-is
+> language-pack-is-base
+> language-pack-it
+> language-pack-it-base
+> language-pack-ja
+> language-pack-ja-base
+> language-pack-kde-zh-hant
+> language-pack-kn
+> language-pack-kn-base
+> language-pack-ko
+> language-pack-ko-base
+> language-pack-ml
+> language-pack-ml-base
+> language-pack-mn
+> language-pack-mn-base
+> language-pack-mr
+> language-pack-mr-base
+> language-pack-my
+> language-pack-my-base
+> language-pack-nb
+> language-pack-nb-base
+> language-pack-nds
+> language-pack-nds-base
+> language-pack-nl
+> language-pack-nl-base
+> language-pack-nn
+> language-pack-nn-base
+> language-pack-pl
+> language-pack-pl-base
+> language-pack-pt
+> language-pack-pt-base
+> language-pack-ro
+> language-pack-ro-base
+> language-pack-ru
+> language-pack-ru-base
+> language-pack-sv
+> language-pack-sv-base
+> language-pack-th
+> language-pack-th-base
+> language-pack-tr
+> language-pack-tr-base
+> language-pack-uk
+> language-pack-uk-base
+> language-pack-vi
+> language-pack-vi-base
+433a1253
+> leafpad
+434a1255
+> lftp
+436a1258,1259
+> libaacs0
+> libabiword-3.0
+438c1261,1263
+< libabw-0.1-1v5
+---
+> libaccount-plugin-1.0-0
+> libaccount-plugin-generic-oauth
+> libaccount-plugin-google
+439a1265,1266
+> libaccounts-qt1
+> libaccounts-qt5-1
+441a1269,1278
+> libaio1
+> libakonadi-calendar4
+> libakonadi-contact4
+> libakonadi-kabc4
+> libakonadi-kcal4
+> libakonadi-kde4
+> libakonadi-kmime4
+> libakonadi-notes4
+> libakonadi-socialutils4
+> libakonadiprotocolinternals1
+445a1283,1296
+> libamd2.3.1
+> libanalitza5abi1
+> libanalitza6
+> libanalitzagui5abi1
+> libanalitzagui6
+> libanalitzaplot5abi1
+> libanalitzaplot6
+> libanalitzawidgets6
+> libandroid-properties1
+> libanthy0
+> libao-common
+> libao4
+> libapache2-mod-dnssd
+> libapache2-mod-php5
+447a1299
+> libappindicator0.1-cil
+449a1302,1305
+> libapr1
+> libaprutil1
+> libaprutil1-dbd-sqlite3
+> libaprutil1-ldap
+451c1307
+< libapt-inst1.7
+---
+> libapt-pkg-dev
+454d1309
+< libapt-pkg4.16
+459c1314,1315
+< libasan2
+---
+> libasan0
+> libasan1
+466c1322
+< libasprintf0v5
+---
+> libasprintf0c2
+468a1325
+> libastro1
+471a1329
+> libatk-adaptor-data
+472a1331,1332
+> libatk-wrapper-java
+> libatk-wrapper-java-jni
+474a1335
+> libatk1.0-dev
+476c1337
+< libatkmm-1.6-1v5
+---
+> libatlas3-base
+481a1343
+> libattica0.4
+483a1346
+> libaudiofile1
+485a1349
+> libauthen-pam-perl
+486a1351,1352
+> libautodie-perl
+> libav-tools
+492a1359,1360
+> libavahi-gobject0
+> libavahi-ui-gtk3-0
+493a1362,1363
+> libavcodec-extra
+> libavcodec-extra-56
+496a1367
+> libavdevice55
+497a1369
+> libavfilter5
+504,505c1376,1381
+< libb-hooks-endofscope-perl
+< libb-hooks-op-check-perl
+---
+> libbabeltrace-ctf1
+> libbabeltrace1
+> libbabl-0.1-0
+> libbaloocore4
+> libbaloofiles4
+> libbalooxapian4
+507d1382
+< libbareword-filehandles-perl
+508a1384
+> libbcel-java
+509a1386
+> libbit-vector-perl
+514a1392,1395
+> libbonobo2-0
+> libbonobo2-common
+> libbonoboui2-0
+> libbonoboui2-common
+516d1396
+< libboost-date-time1.58.0
+518d1397
+< libboost-filesystem1.58.0
+520,522c1399,1402
+< libboost-iostreams1.58.0
+< libboost-program-options1.58.0
+< libboost-regex1.58.0
+---
+> libboost-locale1.55.0
+> libboost-program-options1.55.0
+> libboost-python1.55.0
+> libboost-regex1.55.0
+524,525c1404
+< libboost-system1.58.0
+< libboost-thread1.58.0
+---
+> libboost-thread1.55.0
+534a1414
+> libc6-dbg
+538a1419
+> libcairo-script-interpreter2
+539a1421
+> libcairo2-dev
+541d1422
+< libcairomm-1.0-1v5
+543c1424,1425
+< libcamel-1.2-52
+---
+> libcamd2.3.1
+> libcamel-1.2-49
+553c1435,1443
+< libcc1-0
+---
+> libcaribou-common
+> libcaribou-gtk-module
+> libcaribou-gtk3-module
+> libcaribou0
+> libcarp-clan-perl
+> libcauchy0.0
+> libccid
+> libccolamd2.8.0
+> libcdaudio1
+560c1450,1451
+< libcdr-0.1-1v5
+---
+> libcfitsio2
+> libcfitsio3
+563a1455,1457
+> libcgroup1
+> libchamplain-0.12-0
+> libchamplain-gtk-0.12-0
+567a1462,1463
+> libchm1
+> libcholmod2.1.2
+572a1469,1470
+> libclass-data-inheritable-perl
+> libclass-isa-perl
+574c1472
+< libclass-xsaccessor-perl
+---
+> libcln6
+578d1475
+< libclucene-contribs1v5
+580d1476
+< libclucene-core1v5
+582a1479
+> libclutter-gst-1.0-0
+584a1482,1484
+> libclutter-imcontext-0.1-0
+> libclutter-imcontext-0.1-bin
+> libcluttergesture-0.0.2-0
+586c1486
+< libcmis-0.5-5v5
+---
+> libcodeblocks0
+591a1492,1493
+> libcolorblind0
+> libcolord-gtk1
+594a1497,1499
+> libcommon-sense-perl
+> libcommons-collections3-java
+> libcommons-math-java
+595a1501
+> libconfig-yaml-perl
+598d1503
+< libcpan-changes-perl
+602a1508,1509
+> libcrypt-openssl-bignum-perl
+> libcrypt-openssl-rsa-perl
+613d1519
+< libcwidget3v5
+617c1523
+< libdata-perl-perl
+---
+> libdata-random-perl
+618a1525,1526
+> libdate-calc-perl
+> libdate-calc-xs-perl
+620a1529
+> libdbi1
+622a1532,1535
+> libdbus-glib1.0-cil
+> libdbus-glib2.0-cil
+> libdbus1.0-cil
+> libdbus2.0-cil
+625a1539,1540
+> libdbusmenu-qt2
+> libdbusmenu-qt5
+633,635c1548,1552
+< libdevel-caller-perl
+< libdevel-globaldestruction-perl
+< libdevel-lexalias-perl
+---
+> libdesktop-agnostic-cfg-keyfile
+> libdesktop-agnostic-data
+> libdesktop-agnostic-fdo-gnome
+> libdesktop-agnostic-vfs-gio
+> libdesktop-agnostic0
+637a1555
+> libdigest-crc-perl
+638a1557,1558
+> libdirac-decoder0
+> libdirac-encoder0
+639a1560
+> libdiscid0
+641a1563,1565
+> libdleyna-connector-dbus-1.0-1
+> libdleyna-core-1.0-3
+> libdlrestrictions1
+643a1568
+> libdmtx0a
+645a1571
+> libdom4j-java
+647c1573
+< libdouble-conversion1v5
+---
+> libdouble-conversion1
+649d1574
+< libdrm-amdgpu1
+651a1577
+> libdrm-omap1
+655d1580
+< libdvbpsi10
+659d1583
+< libdw1
+661c1585
+< libebackend-1.2-10
+---
+> libebackend-1.2-7
+663,666c1587,1589
+< libebml4v5
+< libebook-1.2-16
+< libebook-contacts-1.2-1
+< libecal-1.2-18
+---
+> libebook-1.2-14
+> libebook-contacts-1.2-0
+> libecal-1.2-16
+668,671c1591,1593
+< libecryptfs1
+< libedata-book-1.2-25
+< libedata-cal-1.2-27
+< libedataserver-1.2-20
+---
+> libedata-book-1.2-20
+> libedata-cal-1.2-23
+> libedataserver-1.2-18
+675a1598
+> libelfg0
+677a1601
+> libenchant-voikko
+680a1605,1607
+> libepc-1.0-3
+> libepc-common
+> libepc-ui-1.0-3
+681a1609,1613
+> libept-dev
+> libept1.4.12
+> libepub0
+> liberror-perl
+> libesd0
+685a1618
+> libevdocument3-4
+686a1620,1621
+> libevolution
+> libevview3-3
+690c1625,1627
+< libexiv2-14
+---
+> libexo-1-0
+> libexo-common
+> libexo-helpers
+693d1629
+< libexporter-tiny-perl
+695a1632,1634
+> libextutils-depends-perl
+> libextutils-pkgconfig-perl
+> libfaac0
+697d1635
+< libfakekey0
+698a1637
+> libfam0
+700c1639
+< libfarstream-0.2-5
+---
+> libfarstream-0.2-2
+708d1646
+< libfdisk1
+710c1648,1649
+< libffmpegthumbnailer4v5
+---
+> libfftw3-3
+> libfftw3-double3
+713a1653
+> libfile-desktopentry-perl
+716c1656,1659
+< libfile-slurp-perl
+---
+> libfile-mimeinfo-perl
+> libfile-which-perl
+> libfl-dev
+> libflac++6
+718a1662
+> libfltk1.3
+719a1664,1673
+> libfm-data
+> libfm-extra4
+> libfm-gtk-data
+> libfm-gtk4
+> libfm-modules
+> libfm4
+> libfolks-eds25
+> libfolks-telepathy25
+> libfolks25
+> libfont-afm-perl
+720a1675
+> libfontconfig1-dev
+722a1678
+> libframe6
+723a1680,1690
+> libfreehep-export-java
+> libfreehep-graphics2d-java
+> libfreehep-graphicsio-emf-java
+> libfreehep-graphicsio-java
+> libfreehep-graphicsio-pdf-java
+> libfreehep-graphicsio-svg-java
+> libfreehep-graphicsio-tests-java
+> libfreehep-io-java
+> libfreehep-swing-java
+> libfreehep-util-java
+> libfreehep-xml-java
+731a1699
+> libfreerdp-plugins-standard
+732a1701
+> libfreerdp-rail1.1
+734a1704
+> libfreetype6-dev
+735a1706,1708
+> libfs6
+> libftdi1
+> libftgl2
+736a1710
+> libgail-3-0
+738a1713,1715
+> libgarcon-1-0
+> libgarcon-common
+> libgavl1
+740c1717,1719
+< libgcc-5-dev
+---
+> libgc1c2
+> libgcc-4.8-dev
+> libgcc-4.9-dev
+743a1723,1725
+> libgconf2-4
+> libgconf2.0-cil
+> libgcr-3-1
+747a1730
+> libgd-perl
+750c1733
+< libgdata22
+---
+> libgdata19
+751a1735,1737
+> libgdict-1.0-6
+> libgdict-common
+> libgdiplus
+753a1740,1743
+> libgdk-pixbuf2.0-dev
+> libgdm1
+> libgdome2-0
+> libgdome2-cpp-smart0c2a
+755a1746,1747
+> libgegl-0.2-0
+> libgeis1
+759c1751
+< libgetopt-long-descriptive-perl
+---
+> libgetopt-java
+762a1755
+> libgfbgraph-0.2-0
+764a1758
+> libgimp2.0
+765a1760,1761
+> libgit2-22
+> libgjs0e
+770a1767
+> libgle3
+776a1774
+> libglib2.0-cil
+777a1776
+> libglib2.0-dev
+779d1777
+< libglibmm-2.4-1v5
+782a1781
+> libgmime2.6-cil
+785d1783
+< libgnome-bluetooth13
+786a1785
+> libgnome-desktop-2-17
+789a1789
+> libgnome-media-profiles-3.0-0
+790a1791,1800
+> libgnome2-0
+> libgnome2-bin
+> libgnome2-canvas-perl
+> libgnome2-common
+> libgnome2-gconf-perl
+> libgnome2-perl
+> libgnome2-vfs-perl
+> libgnome2-wnck-perl
+> libgnomecanvas2-0
+> libgnomecanvas2-common
+792a1803,1808
+> libgnomeui-0
+> libgnomeui-common
+> libgnomevfs2-0
+> libgnomevfs2-common
+> libgnomevfs2-extra
+> libgnu-regexp-java
+796a1813,1815
+> libgoa-backend-1.0-1
+> libgoffice-0.10-10
+> libgoffice-0.10-10-common
+797a1817,1819
+> libgoo-canvas-perl
+> libgoocanvas-common
+> libgoocanvas3
+803d1824
+< libgphoto2-port12
+806a1828,1832
+> libgps21
+> libgrail6
+> libgrantlee-core0
+> libgraphicsmagick++3
+> libgraphicsmagick3
+808a1835
+> libgrip0
+811a1839,1840
+> libgsf-1-114
+> libgsf-1-common
+816a1846,1849
+> libgssglue1
+> libgstreamer-perl
+> libgstreamer-plugins-bad0.10-0
+> libgstreamer-plugins-bad1.0-0
+824a1858,1861
+> libgtk-vnc-2.0-0
+> libgtk2-appindicator-perl
+> libgtk2-imageview-perl
+> libgtk2-notify-perl
+825a1863,1864
+> libgtk2-trayicon-perl
+> libgtk2-unique-perl
+827a1867
+> libgtk2.0-cil
+828a1869,1875
+> libgtk2.0-dev
+> libgtkglext1
+> libgtkhtml-4.0-0
+> libgtkhtml-4.0-common
+> libgtkhtml-editor-4.0-0
+> libgtkimageview0
+> libgtkmathview0c2a
+830c1877,1879
+< libgtkmm-2.4-1v5
+---
+> libgtkmm-3.0-1
+> libgtksourceview-3.0-1
+> libgtksourceview-3.0-common
+833a1883
+> libgtkspell3-3-0
+838a1889,1890
+> libgupnp-av-1.0-2
+> libgupnp-dlna-2.0-3
+843c1895
+< libguvcview-1.1-1
+---
+> libgvnc-1.0-0
+846a1899,1904
+> libhamcrest-java
+> libhangul-data
+> libhangul1
+> libhardware2
+> libharfbuzz-dev
+> libharfbuzz-gobject0
+853d1910
+< libhogweed4
+854a1912,1915
+> libhsqldb-java
+> libhsqldb1.8.0-java
+> libhtml-form-perl
+> libhtml-format-perl
+856a1918
+> libhtml-template-perl
+858a1921
+> libhttp-daemon-perl
+861a1925,1926
+> libhttp-parser2.1
+> libhttp-server-simple-perl
+863d1927
+< libhunspell-1.3-0v5
+864a1929
+> libhybris-common1
+867a1933
+> libice-dev
+870c1936,1938
+< libicu55
+---
+> libid3tag0
+> libident
+> libidl0
+872d1939
+< libido-0.1-0
+877c1944,1947
+< libimobiledevice-utils
+---
+> libilmbase6
+> libimage-magick-perl
+> libimage-magick-q16-perl
+> libimlib2
+879c1949,1952
+< libimport-into-perl
+---
+> libindi-data
+> libindi0d
+> libindialignmentdriver0d
+> libindicate5
+882,883c1955,1957
+< libindirect-perl
+< libinput10
+---
+> libindidriver0d
+> libinput7
+> libintl-perl
+886a1961
+> libio-socket-ip-perl
+889d1963
+< libio-stringy-perl
+891a1966
+> libiptcdata0
+902a1978,1979
+> libjas-java
+> libjas-plotter-java
+905a1983,1985
+> libjavascriptcoregtk-4.0-18
+> libjaxen-java
+> libjaxp1.3-java
+907a1988,2000
+> libjcommon-java
+> libjdom1-java
+> libjemalloc1
+> libjfreechart-java
+> libjfugue-java
+> libjgoodies-common-java
+> libjgoodies-forms-java
+> libjibx1.1-java
+> libjlatexmath-java
+> libjna-java
+> libjna-jni
+> libjpeg-progs
+> libjpeg-turbo-progs
+909a2003
+> libjs-excanvas
+910a2005
+> libjs-jquery-ui
+912a2008,2009
+> libjs-sphinxdoc
+> libjs-underscore
+915a2013,2015
+> libjson-perl
+> libjson-xs-perl
+> libjson0
+916a2017,2018
+> libk3b6
+> libk3b6-extracodecs
+917a2020,2022
+> libkabc4
+> libkactivities6
+> libkalarmcal2
+918a2024,2046
+> libkatepartinterfaces4
+> libkcal4
+> libkcalcore4
+> libkcalutils4
+> libkcddb4
+> libkcmutils4
+> libkcompactdisc4
+> libkdcraw-data
+> libkdcraw23
+> libkde3support4
+> libkdeclarative5
+> libkdecore5
+> libkdeedu-data
+> libkdegames6abi1
+> libkdesu5
+> libkdeui5
+> libkdewebkit5
+> libkdnssd4
+> libkeduvocdocument4
+> libkeduvocdocument5
+> libkemoticons4
+> libkeybinder-3.0-0
+> libkeybinder0
+919a2048,2139
+> libkf5activities5
+> libkf5archive5
+> libkf5attica5
+> libkf5auth-data
+> libkf5auth5
+> libkf5bookmarks-data
+> libkf5bookmarks5
+> libkf5codecs-data
+> libkf5codecs5
+> libkf5completion-data
+> libkf5completion5
+> libkf5config-bin
+> libkf5config-data
+> libkf5configcore5
+> libkf5configgui5
+> libkf5configwidgets-data
+> libkf5configwidgets5
+> libkf5coreaddons-data
+> libkf5coreaddons5
+> libkf5crash5
+> libkf5dbusaddons-bin
+> libkf5dbusaddons-data
+> libkf5dbusaddons5
+> libkf5declarative-data
+> libkf5declarative5
+> libkf5globalaccel-bin
+> libkf5globalaccel-data
+> libkf5globalaccel5
+> libkf5guiaddons5
+> libkf5i18n-data
+> libkf5i18n5
+> libkf5iconthemes-bin
+> libkf5iconthemes-data
+> libkf5iconthemes5
+> libkf5itemviews-data
+> libkf5itemviews5
+> libkf5jobwidgets-data
+> libkf5jobwidgets5
+> libkf5js5
+> libkf5kcmutils-data
+> libkf5kcmutils5
+> libkf5kdelibs4support-data
+> libkf5kdelibs4support5
+> libkf5kdelibs4support5-bin
+> libkf5khtml-bin
+> libkf5khtml-data
+> libkf5khtml5
+> libkf5kiocore5
+> libkf5kiofilewidgets5
+> libkf5kiowidgets5
+> libkf5krosscore5
+> libkf5krossui5
+> libkf5newstuff-data
+> libkf5newstuff5
+> libkf5notifications-data
+> libkf5notifications5
+> libkf5package5
+> libkf5parts-data
+> libkf5parts-plugins
+> libkf5parts5
+> libkf5quickaddons5
+> libkf5service-bin
+> libkf5service-data
+> libkf5service5
+> libkf5solid5
+> libkf5solid5-data
+> libkf5sonnet5-data
+> libkf5sonnetcore5
+> libkf5sonnetui5
+> libkf5texteditor5
+> libkf5textwidgets-data
+> libkf5textwidgets5
+> libkf5wallet-bin
+> libkf5wallet5
+> libkf5widgetsaddons-data
+> libkf5widgetsaddons5
+> libkf5windowsystem-data
+> libkf5windowsystem5
+> libkf5xmlgui-bin
+> libkf5xmlgui-data
+> libkf5xmlgui5
+> libkfbapi1
+> libkfile4
+> libkgapi2-2
+> libkholidays4
+> libkhtml5
+> libkidletime4
+> libkimap4
+> libkio5
+> libkjsapi4
+> libkjsembed4
+> libkldap4
+920a2141,2143
+> libkmbox4
+> libkmediaplayer4
+> libkmime4
+921a2145,2151
+> libknewstuff2-4
+> libknewstuff3-4
+> libknotifyconfig4
+> libkntlm4
+> libkolab0
+> libkolabxml1
+> libkparts4
+922a2153,2157
+> libkpimidentities4
+> libkpimtextedit4
+> libkpimutils4
+> libkprintutils4
+> libkpty4
+925a2161,2167
+> libkresources4
+> libkrosscore4
+> libkrossui4
+> libktexteditor4
+> libkunitconversion4
+> libkwalletbackend5-5
+> libkxmlrpcclient4
+933c2175,2176
+< liblexical-sealrequirehints-perl
+---
+> liblensfun-data
+> liblensfun0
+934a2178,2180
+> liblinear-tools
+> liblinear1
+> liblink-grammar4
+937a2184
+> libllvm3.4
+939d2185
+< libllvm3.6v5
+944a2191,2192
+> liblog4j1.2-java
+> libloudmouth1-0
+946a2195,2196
+> liblqr-1-0
+> libltdl-dev
+947a2198
+> liblua5.1-0
+948a2200,2201
+> libluajit-5.1-common
+> liblvm2app2.2
+954a2208
+> libm2mml0.0
+956a2211,2215
+> libmagick++-6.q16-5
+> libmagickcore-6.q16-2
+> libmagickcore-6.q16-2-extra
+> libmagickwand-6.q16-2
+> libmail-sendmail-perl
+957a2217,2218
+> libmailtransport4
+> libmarblewidget20
+968,969d2228
+< libmatemixer-common
+< libmatemixer0
+973d2231
+< libmatroska6v5
+975a2234
+> libmcrypt4
+976a2236,2238
+> libmediaart-1.0-0
+> libmenu-cache-bin
+> libmenu-cache3
+979d2240
+< libmetacity-private3
+980a2242
+> libmicroblog4
+981a2244
+> libmimic0
+984d2246
+< libmirclient9
+986d2247
+< libmircommon5
+988c2249,2253
+< libmirprotobuf3
+---
+> libmission-control-plugins0
+> libmjpegutils-2.1-0
+> libmlt++3
+> libmlt-data
+> libmlt6
+989a2255
+> libmms0
+994d2259
+< libmodule-implementation-perl
+996d2260
+< libmodule-runtime-perl
+998,999c2262,2278
+< libmoo-perl
+< libmoox-handlesvia-perl
+---
+> libmono-addins-gui0.2-cil
+> libmono-addins0.2-cil
+> libmono-cairo4.0-cil
+> libmono-corlib4.0-cil
+> libmono-corlib4.5-cil
+> libmono-i18n-west4.0-cil
+> libmono-i18n4.0-cil
+> libmono-posix4.0-cil
+> libmono-security4.0-cil
+> libmono-sharpzip4.84-cil
+> libmono-system-configuration4.0-cil
+> libmono-system-core4.0-cil
+> libmono-system-drawing4.0-cil
+> libmono-system-security4.0-cil
+> libmono-system-xml4.0-cil
+> libmono-system4.0-cil
+> libmotif-common
+1000a2280,2282
+> libmouse-perl
+> libmozjs-24-0
+> libmozjs185-1.0
+1005a2288
+> libmpeg2encpp-2.1-0
+1007a2291
+> libmplex2-2.1-0
+1008a2293
+> libmspack0
+1014c2299,2301
+< libmultidimensional-perl
+---
+> libmuparser2
+> libmusicbrainz5-1
+> libmutter0e
+1016c2303,2306
+< libmwaw-0.3-3v5
+---
+> libmx-1.0-2
+> libmx-bin
+> libmx-common
+> libmysqlclient18
+1018,1019d2307
+< libnamespace-autoclean-perl
+< libnamespace-clean-perl
+1021a2310,2311
+> libnb-org-openide-util-java
+> libnb-org-openide-util-lookup-java
+1028a2319
+> libnet-dropbox-api-perl
+1030a2322,2323
+> libnet-libidn-perl
+> libnet-oauth-perl
+1033a2327,2329
+> libnetfilter-cthelper0
+> libnetfilter-cttimeout1
+> libnetpbm10
+1035d2330
+< libnettle6
+1036a2332,2336
+> libnfc-bin
+> libnfc-dev
+> libnfc-examples
+> libnfc-pn53x-examples
+> libnfc5
+1037a2338
+> libnfsidmap2
+1049d2349
+< libnm0
+1051a2352
+> libnova-0.14-0
+1057a2359,2360
+> libntrack-qt4-1
+> libntrack0
+1058a2362,2363
+> libobrender29
+> libobt2
+1060c2365
+< libodfgen-0.1-1v5
+---
+> libofa0
+1065,1066c2370,2392
+< libopencv-core2.4v5
+< libopencv-imgproc2.4v5
+---
+> libopenbabel4
+> libopencc1
+> libopencolorio1
+> libopencore-amrnb0
+> libopencore-amrwb0
+> libopencv-calib3d2.4
+> libopencv-contrib2.4
+> libopencv-core2.4
+> libopencv-features2d2.4
+> libopencv-flann2.4
+> libopencv-gpu2.4
+> libopencv-highgui2.4
+> libopencv-imgproc2.4
+> libopencv-legacy2.4
+> libopencv-ml2.4
+> libopencv-objdetect2.4
+> libopencv-photo2.4
+> libopencv-stitching2.4
+> libopencv-ts2.4
+> libopencv-video2.4
+> libopencv-videostab2.4
+> libopenexr6
+> libopenimageio1.4
+1068a2395
+> libopenraw1
+1070a2398,2399
+> liborbit-2-0
+> liborbit2
+1072d2400
+< liborcus-0.10-0v5
+1073a2402
+> libots0
+1077,1078d2405
+< libpackage-stash-perl
+< libpackage-stash-xs-perl
+1080,1081c2407,2408
+< libpadwalker-perl
+< libpagemaker-0.0-0
+---
+> libpam-cap
+> libpam-ck-connector
+1087a2415
+> libpanel-applet0
+1090a2419
+> libpango1.0-dev
+1094d2422
+< libpangomm-1.4-1v5
+1099d2426
+< libparams-classify-perl
+1101d2427
+< libparams-validate-perl
+1105c2431
+< libpath-tiny-perl
+---
+> libpath-class-perl
+1109d2434
+< libpcre16-3
+1110a2436,2439
+> libpcre3-dev
+> libpcrecpp0
+> libpcsc-perl
+> libpcsclite-dev
+1113a2443
+> libperl4-corelibs-perl
+1116a2447,2449
+> libphonon4
+> libphonon4qt5-4
+> libphononexperimental4
+1118a2452
+> libpixman-1-dev
+1121c2455
+< libplist-utils
+---
+> libplasma3
+1123c2457
+< libplist3
+---
+> libplot2c2
+1125a2460
+> libpng12-dev
+1127d2461
+< libpod-markdown-perl
+1128a2463
+> libpodofo0.9.0
+1131a2467,2468
+> libpolkit-qt-1-1
+> libpolkit-qt5-1-1
+1132a2470
+> libpoppler-qt4-4
+1134d2471
+< libpoppler52
+1137a2475
+> libportsmf0
+1139a2478
+> libpotrace0
+1141a2481,2483
+> libprison0
+> libproc-processtable-perl
+> libproc-simple-perl
+1143d2484
+< libprotobuf-lite9v5
+1145d2485
+< libprotobuf9v5
+1150c2490,2494
+< libproxy1v5
+---
+> libpst4
+> libpstoedit0c2a
+> libptexenc1
+> libpth20
+> libpthread-stubs0-dev
+1158d2501
+< libpython-dev
+1161d2503
+< libpython2.7-dev
+1164d2505
+< libpython3-dev
+1167d2507
+< libpython3.4-dev
+1170,1171c2510,2520
+< libpython3.5-minimal
+< libpython3.5-stdlib
+---
+> libpyzy-1.0-0
+> libqalculate5
+> libqalculate5-data
+> libqapt3
+> libqapt3-runtime
+> libqca2
+> libqca2-plugin-ossl
+> libqca2-plugins
+> libqdox-java
+> libqextserialport1
+> libqjson0
+1173a2523
+> libqmobipocket1
+1175,1177c2525,2526
+< libqpdf13v5
+< libqscintilla2-11
+< libqscintilla2-l10n
+---
+> libqqwing2
+> libqrencode3
+1182a2532,2533
+> libqt4-opengl
+> libqt4-qt3support
+1185a2537,2538
+> libqt4-sql-mysql
+> libqt4-sql-sqlite
+1187a2541
+> libqt4-webkit
+1189a2544
+> libqt5clucene5
+1191a2547,2548
+> libqt5declarative5
+> libqt5designer5
+1192a2550,2551
+> libqt5help5
+> libqt5multimedia5
+1193a2553,2555
+> libqt5opengl5
+> libqt5positioning5
+> libqt5printsupport5
+1196a2559,2565
+> libqt5script5
+> libqt5sensors5
+> libqt5sql5
+> libqt5sql5-sqlite
+> libqt5svg5
+> libqt5test5
+> libqt5webkit5
+1198a2568
+> libqt5xml5
+1202a2573
+> libqtlocation1
+1203a2575,2576
+> libquazip1
+> libquicktime2
+1206a2580,2581
+> librarian0
+> libraspberrypi-bin
+1208d2582
+< libraspberrypi-dev
+1215a2590,2591
+> librecad
+> librecad-data
+1216a2593
+> libreoffice
+1217a2595
+> libreoffice-base
+1218a2597
+> libreoffice-base-drivers
+1224a2604,2608
+> libreoffice-help-cs
+> libreoffice-help-da
+> libreoffice-help-de
+> libreoffice-help-dz
+> libreoffice-help-el
+1226a2611,2626
+> libreoffice-help-es
+> libreoffice-help-fi
+> libreoffice-help-fr
+> libreoffice-help-hi
+> libreoffice-help-hu
+> libreoffice-help-it
+> libreoffice-help-ja
+> libreoffice-help-ko
+> libreoffice-help-nl
+> libreoffice-help-pl
+> libreoffice-help-pt
+> libreoffice-help-pt-br
+> libreoffice-help-ru
+> libreoffice-help-sv
+> libreoffice-help-tr
+> libreoffice-help-vi
+1229a2630,2641
+> libreoffice-java-common
+> libreoffice-l10n-af
+> libreoffice-l10n-ar
+> libreoffice-l10n-ast
+> libreoffice-l10n-be
+> libreoffice-l10n-bg
+> libreoffice-l10n-bn
+> libreoffice-l10n-cs
+> libreoffice-l10n-da
+> libreoffice-l10n-de
+> libreoffice-l10n-dz
+> libreoffice-l10n-el
+1231a2644,2670
+> libreoffice-l10n-es
+> libreoffice-l10n-fi
+> libreoffice-l10n-fr
+> libreoffice-l10n-ga
+> libreoffice-l10n-hi
+> libreoffice-l10n-hu
+> libreoffice-l10n-id
+> libreoffice-l10n-is
+> libreoffice-l10n-it
+> libreoffice-l10n-ja
+> libreoffice-l10n-ko
+> libreoffice-l10n-ml
+> libreoffice-l10n-mn
+> libreoffice-l10n-mr
+> libreoffice-l10n-nb
+> libreoffice-l10n-nl
+> libreoffice-l10n-nn
+> libreoffice-l10n-pl
+> libreoffice-l10n-pt
+> libreoffice-l10n-pt-br
+> libreoffice-l10n-ro
+> libreoffice-l10n-ru
+> libreoffice-l10n-sv
+> libreoffice-l10n-th
+> libreoffice-l10n-tr
+> libreoffice-l10n-uk
+> libreoffice-l10n-vi
+1236a2676,2678
+> libreoffice-report-builder-bin
+> libreoffice-sdbc-firebird
+> libreoffice-sdbc-hsqldb
+1238a2681,2682
+> libreoffice-style-tango
+> libreoffice-voikko
+1241a2686
+> librest-extras-0.7-0
+1242a2688
+> librhino-java
+1244d2689
+< librhythmbox-core9
+1246c2691
+< librole-tiny-perl
+---
+> librrd4
+1250,1251d2694
+< librtimulib-utils
+< librtimulib7
+1252a2696
+> libruby1.9.1
+1253a2698,2702
+> librxtx-java
+> librygel-core-2.4-2
+> librygel-renderer-2.4-2
+> librygel-renderer-gst-2.4-2
+> librygel-server-2.4-2
+1256a2706,2707
+> libsane-extras
+> libsane-extras-common
+1261a2713
+> libsbsms10
+1265a2718,2719
+> libsdl-net1.2
+> libsdl-pango1
+1269d2722
+< libseccomp2
+1271a2725
+> libseed-gtk3-0
+1276a2731,2733
+> libservlet2.5-java
+> libservlet3.0-java
+> libsexy2
+1279a2737,2738
+> libshp2
+> libsidplay1
+1281c2740
+< libsidplay2v5
+---
+> libsigc++-1.2-5c2
+1283c2742
+< libsigc++-2.0-0v5
+---
+> libsignon-extension1
+1284a2744,2746
+> libsignon-plugins-common1
+> libsignon-qt1
+> libsignon-qt5-1
+1286a2749,2750
+> libslv2-9
+> libsm-dev
+1293a2758,2762
+> libsocialweb-client2
+> libsocialweb-common
+> libsocialweb-service
+> libsocialweb0
+> libsocket-perl
+1295a2765,2766
+> libsofia-sip-ua-glib3
+> libsofia-sip-ua0
+1296a2768
+> libsolid4
+1297a2770,2772
+> libsoprano4
+> libsort-naturally-perl
+> libsoundtouch0
+1299a2775,2782
+> libsox-fmt-all
+> libsox-fmt-alsa
+> libsox-fmt-ao
+> libsox-fmt-base
+> libsox-fmt-mp3
+> libsox-fmt-oss
+> libsox-fmt-pulse
+> libsox2
+1300a2784
+> libspandsp2
+1304a2789
+> libspnav0
+1305a2791
+> libsrtp0
+1312c2798,2799
+< libstdc++-5-dev
+---
+> libstdc++-4.8-dev
+> libstdc++-4.9-dev
+1314c2801,2803
+< libstrictures-perl
+---
+> libstdc++6-4.6-dev
+> libstreamanalyzer0
+> libstreams0
+1316d2804
+< libsub-exporter-progressive-perl
+1320a2809,2810
+> libsvm-tools
+> libswitch-perl
+1323a2814,2816
+> libsynctex1
+> libsys-hostname-long-perl
+> libsysfs2
+1324a2818,2819
+> libt4k-common0
+> libtablelayout-java
+1326,1327c2821,2823
+< libtag1v5
+< libtag1v5-vanilla
+---
+> libtag1c2a
+> libtagc0
+> libtagcoll2-dev
+1328a2825
+> libtar0
+1329a2827
+> libtcl8.5
+1331a2830,2833
+> libtelepathy-farstream2
+> libtelepathy-farstream3
+> libtelepathy-glib0
+> libtelepathy-logger3
+1342a2845,2848
+> libthreadweaver4
+> libthunarx-2-0
+> libtidy-0.99-0
+> libtie-ixhash-perl
+1348c2854,2856
+< libtinyxml2.6.2v5
+---
+> libtinyxml2.6.2
+> libtirpc1
+> libtk8.5
+1350c2858
+< libtotem-plparser-common
+---
+> libtool
+1352c2860,2864
+< libtry-tiny-perl
+---
+> libtotem0
+> libtracker-control-1.0-0
+> libtracker-miner-1.0-0
+> libtracker-sparql-1.0-0
+> libtumbler-1-0
+1355,1356d2866
+< libtype-tiny-perl
+< libtype-tiny-xs-perl
+1357a2868
+> libudev-dev
+1360c2871
+< libunicode-utf8-perl
+---
+> libumfpack5.6.2
+1361a2873
+> libunique-3.0-0
+1374a2887,2889
+> libusb-1.0-0-dev
+> libusb-1.0-doc
+> libusb-dev
+1376a2892
+> libutempter0
+1379a2896
+> libv4l2rds0
+1384c2901
+< libvariable-magic-perl
+---
+> libvamp-hostsdk3
+1393c2910,2913
+< libvncclient1
+---
+> libvncserver0
+> libvo-aacenc0
+> libvo-amrwbenc0
+> libvoikko1
+1398d2917
+< libvpx2
+1413a2933
+> libwcs4
+1414a2935
+> libwebkit2gtk-4.0-37
+1422a2944,2946
+> libwibble-dev
+> libwildmidi-config
+> libwildmidi1
+1441a2966,2968
+> libwlocate0
+> libwmf-bin
+> libwmf0.2-7
+1447d2973
+< libwpd-0.10-10v5
+1450d2975
+< libwps-0.4-4
+1451a2977,2978
+> libwv-1.2-4
+> libwww-mechanize-perl
+1455c2982
+< libwxgtk-media2.8-0
+---
+> libwxbase3.0-0
+1456a2984
+> libwxgtk3.0-0
+1458a2987,2988
+> libx11-dev
+> libx11-doc
+1462,1463c2992,2994
+< libx264-146
+< libx265-59
+---
+> libx265-43
+> libxalan2-java
+> libxapian-dev
+1465c2996
+< libxapian22v5
+---
+> libxau-dev
+1478a3010
+> libxcb-render0-dev
+1480a3013
+> libxcb-shm0-dev
+1483c3016
+< libxcb-util1
+---
+> libxcb-xf86dri0
+1487a3021,3022
+> libxcb1-dev
+> libxcomposite-dev
+1488a3024
+> libxcursor-dev
+1489a3026
+> libxdamage-dev
+1490a3028
+> libxdmcp-dev
+1491a3030,3032
+> libxerces-c3.1
+> libxerces2-java
+> libxext-dev
+1492a3034,3044
+> libxfce4ui-1-0
+> libxfce4ui-2-0
+> libxfce4ui-common
+> libxfce4ui-utils
+> libxfce4util-bin
+> libxfce4util-common
+> libxfce4util-dev
+> libxfce4util7
+> libxfcegui4-4
+> libxfconf-0-2
+> libxfixes-dev
+1494a3047,3048
+> libxfreerdp-client1.1
+> libxft-dev
+1495a3050
+> libxi-dev
+1496a3052
+> libxinerama-dev
+1501a3058,3061
+> libxm4
+> libxml-commons-external-java
+> libxml-commons-resolver1.1-java
+> libxml-namespacesupport-perl
+1502a3063,3066
+> libxml-sax-base-perl
+> libxml-sax-expat-perl
+> libxml-sax-perl
+> libxml-simple-perl
+1503a3068
+> libxml-xpathengine-perl
+1504a3070,3072
+> libxml2-utils
+> libxmmsclient-glib1
+> libxmmsclient6
+1506a3075
+> libxom-java
+1508a3078,3080
+> libxpp2-java
+> libxpp3-java
+> libxrandr-dev
+1509a3082
+> libxrender-dev
+1514a3088
+> libxt-dev
+1523a3098,3101
+> libyaml-cpp0.3
+> libyaml-libyaml-perl
+> libyaml-perl
+> libyaml-tiny-perl
+1524a3103,3107
+> libytnef0
+> libzapojit-0.0-0
+> libzbar0
+> libzeitgeist-1.0-1
+> libzeitgeist-2.0-0
+1526c3109
+< libzip4
+---
+> libzip2
+1529a3113,3115
+> libzzip-0-13
+> light-locker
+> light-locker-settings
+1532a3119,3121
+> lightsoff
+> lightspeed
+> link-grammar-dictionaries-en
+1536,1537d3124
+< linux-firmware-nonfree
+< linux-goldfish-tools-3.4.0-4
+1539c3126
+< linux-image-3.18.0-25-rpi2
+---
+> linux-image-3.18.0-23-rpi2
+1543,1545d3129
+< linux-tools-3.4.0-4-goldfish
+< linux-tools-common
+< linux-tools-goldfish
+1546a3131
+> lmodern
+1547a3133
+> locate
+1556a3143,3144
+> lua5.1
+> luajit
+1557a3146,3164
+> lxappearance
+> lxde
+> lxde-common
+> lxde-core
+> lxde-icon-theme
+> lxinput
+> lxmenu-data
+> lxmusic
+> lxpanel
+> lxpanel-data
+> lxpolkit
+> lxrandr
+> lxsession
+> lxsession-data
+> lxsession-edit
+> lxshortcut
+> lxtask
+> lxterminal
+> lybniz
+1558a3166
+> mahjongg
+1563a3172,3174
+> marble
+> marble-data
+> marble-plugins
+1578,1579d3188
+< mate-indicator-applet-common
+< mate-media
+1584,1585d3192
+< mate-netbook
+< mate-netbook-common
+1587d3193
+< mate-netspeed-common
+1589,1590d3194
+< mate-notification-daemon-common
+< mate-optimus
+1600d3203
+< mate-sensors-applet-common
+1611d3213
+< mate-user-guide
+1613a3216
+> mathpiper
+1614a3218,3219
+> mcp-account-manager-uoa
+> mcrypt
+1615a3221,3224
+> meld
+> melt
+> melting
+> menu
+1616a3226,3228
+> menulibre
+> mercurial
+> mercurial-common
+1617a3230
+> metacity
+1620c3233,3234
+< minecraft-pi
+---
+> mimetex
+> minissdpd
+1621a3236
+> miscfiles
+1625a3241,3245
+> mono-4.0-gac
+> mono-gac
+> mono-runtime
+> mono-runtime-common
+> mono-runtime-sgen
+1627a3248
+> mousepad
+1632a3254
+> mugshot
+1634a3257,3262
+> mutter
+> mutter-common
+> myspell-af
+> myspell-bg
+> myspell-cs
+> myspell-el-gr
+1637a3266,3285
+> myspell-es
+> myspell-ga
+> myspell-it
+> myspell-nb
+> myspell-nl
+> myspell-nn
+> myspell-pl
+> myspell-pt
+> myspell-pt-br
+> myspell-pt-pt
+> myspell-sv-se
+> myspell-sw
+> myspell-th
+> myspell-uk
+> mysql-client-core-5.6
+> mysql-common
+> mysql-server-core-5.6
+> mythes-cs
+> mythes-de
+> mythes-de-ch
+1639a3288,3294
+> mythes-fr
+> mythes-hu
+> mythes-it
+> mythes-pl
+> mythes-ro
+> mythes-ru
+> mythes-sv
+1640a3296
+> nautilus
+1641a3298,3302
+> nautilus-open-terminal
+> nautilus-sendto
+> nautilus-share
+> ncdu
+> ncftp
+1644a3306
+> ndiff
+1647a3310,3313
+> netcat-traditional
+> netpbm
+> netsurf-common
+> netsurf-gtk
+1651a3318,3321
+> nfct
+> nfdump
+> nfs-common
+> nmap
+1655a3326,3328
+> ntrack-module-libnl-0
+> numix-gtk-theme
+> obconf
+1656a3330
+> obexd-client
+1659d3332
+< oem-config-slideshow-ubuntu-mate
+1664a3338,3345
+> openbabel
+> openbox
+> openjdk-6-jre
+> openjdk-6-jre-headless
+> openjdk-6-jre-lib
+> openjdk-7-jdk
+> openjdk-7-jre
+> openjdk-7-jre-headless
+1666a3348,3353
+> opensc
+> opensc-pkcs11
+> openshot
+> openshot-doc
+> openssh-blacklist
+> openssh-blacklist-extra
+1670a3358
+> orage
+1671a3360,3361
+> oxideqt-codecs-extra
+> oxygen-icon-theme
+1676a3367,3372
+> packagekit-tools
+> pairs
+> parley
+> parley-data
+> parole
+> partclone
+1678a3375
+> pastebinit
+1680a3378
+> pavucontrol
+1681a3380
+> pcmanfm
+1682a3382,3384
+> pcsc-tools
+> pcscd
+> pencil2d
+1684a3387
+> perl-doc
+1685a3389,3397
+> perlmagick
+> phonon
+> phonon-backend-gstreamer
+> phonon-backend-gstreamer-common
+> php5
+> php5-cli
+> php5-common
+> php5-json
+> php5-readline
+1690,1691d3401
+< pinentry-gnome3
+< pinentry-gtk2
+1693a3404
+> plasma-scriptengine-javascript
+1700a3412,3413
+> plymouth-theme-xubuntu-logo
+> plymouth-theme-xubuntu-text
+1701a3415
+> po-debconf
+1728a3443,3444
+> pstoedit
+> psutils
+1733a3450,3451
+> python-appindicator
+> python-apsw
+1739c3457
+< python-blinker
+---
+> python-beautifulsoup
+1740a3459
+> python-brlapi
+1743,1745d3461
+< python-caja-common
+< python-cffi
+< python-cffi-backend
+1747a3464
+> python-cherrypy3
+1749,1751d3465
+< python-codebug-i2c-tether
+< python-codebug-tether
+< python-colorama
+1755c3469,3472
+< python-cryptography
+---
+> python-cssselect
+> python-cssutils
+> python-cups
+> python-dateutil
+1761c3478
+< python-dev
+---
+> python-defusedxml
+1763,1765c3480,3482
+< python-distlib
+< python-distutils-extra
+< python-enum34
+---
+> python-dnspython
+> python-feedparser
+> python-gconf
+1769a3487,3488
+> python-gnome2
+> python-gnomekeyring
+1775d3493
+< python-html5lib
+1777d3494
+< python-idna
+1779,1780c3496
+< python-ipaddress
+< python-jwt
+---
+> python-kde4
+1783a3500
+> python-louis
+1784a3502,3505
+> python-magic
+> python-mako
+> python-markdown
+> python-markupsafe
+1786c3507
+< python-minecraftpi
+---
+> python-mechanize
+1787a3509
+> python-mlt
+1794a3517
+> python-pam
+1796d3518
+< python-picamera
+1798d3519
+< python-pip
+1801,1802c3522
+< python-ply
+< python-ptyprocess
+---
+> python-psutil
+1805c3525,3528
+< python-pycparser
+---
+> python-pyatspi
+> python-pyatspi2
+> python-pycurl
+> python-pyfits
+1806a3530,3539
+> python-pygments
+> python-pygoocanvas
+> python-pyorbit
+> python-pyparsing
+> python-pyqt5
+> python-pyqt5.qtsvg
+> python-pyqt5.qtwebkit
+> python-pyscard
+> python-pysqlite2
+> python-qrtools
+1808a3542,3545
+> python-renderpm
+> python-reportlab
+> python-reportlab-accel
+> python-repoze.lru
+1810,1811c3547
+< python-rpi.gpio
+< python-rtimulib
+---
+> python-routes
+1818c3554,3556
+< python-spidev
+---
+> python-smbc
+> python-soappy
+> python-software-properties
+1828,1830c3566,3569
+< python-wheel
+< python-wxgtk2.8
+< python-wxversion
+---
+> python-utidylib
+> python-webob
+> python-wnck
+> python-wstools
+1833a3573,3575
+> python-yaml
+> python-zbar
+> python-zeitgeist
+1836d3577
+< python2.7-dev
+1844d3584
+< python3-blinker
+1847,1848d3586
+< python3-cffi
+< python3-cffi-backend
+1850,1852d3587
+< python3-codebug-i2c-tether
+< python3-codebug-tether
+< python3-colorama
+1854d3588
+< python3-configobj
+1856d3589
+< python3-cryptography
+1862,1863d3594
+< python3-dev
+< python3-distlib
+1868d3598
+< python3-html5lib
+1871,1872d3600
+< python3-idna
+< python3-jwt
+1877d3604
+< python3-minecraftpi
+1885d3611
+< python3-picamera
+1887d3612
+< python3-pip
+1890d3614
+< python3-ply
+1892,1893c3616
+< python3-ptyprocess
+< python3-pyasn1
+---
+> python3-psutil
+1895d3617
+< python3-pycparser
+1896a3619
+> python3-pyqt4
+1901,1902d3623
+< python3-rpi.gpio
+< python3-rtimulib
+1904c3625
+< python3-setuptools
+---
+> python3-sip
+1909d3629
+< python3-spidev
+1910a3631
+> python3-uno
+1913d3633
+< python3-wheel
+1917d3636
+< python3.4-dev
+1919,1920c3638
+< python3.5
+< python3.5-minimal
+---
+> qapt-batch
+1923a3642
+> qrencode
+1924a3644
+> qt-faststart
+1927a3648,3650
+> qtdeclarative4-kqtquickcharts-1
+> qtqr
+> qtquick1-qml-plugins
+1929c3652,3654
+< raspberrypi-bootloader
+---
+> quadrapassel
+> rarian-compat
+> raspberrypi-bootloader-nokernel
+1931d3655
+< raspi-gpio
+1933c3657
+< read-edid
+---
+> rdesktop
+1934a3659,3665
+> realmd
+> recordmydesktop
+> remmina
+> remmina-common
+> remmina-plugin-gnome
+> remmina-plugin-rdp
+> remmina-plugin-vnc
+1936a3668
+> rfdump
+1942,1943c3674,3679
+< rng-tools
+< rpi-update
+---
+> ri-li
+> ri-li-data
+> ristretto
+> rlwrap
+> rocs
+> rpcbind
+1948d3683
+< rtmpdump
+1949a3685
+> ruby1.9.1
+1951a3688,3691
+> rygel
+> rygel-playbin
+> rygel-preferences
+> rygel-tracker
+1956a3697
+> scrot
+1962a3704,3705
+> sgml-data
+> shared-desktop-ontologies
+1963a3707
+> shimmer-themes
+1965a3710,3717
+> shutter
+> signon-keyring-extension
+> signon-plugin-oauth2
+> signon-plugin-password
+> signon-ui
+> signon-ui-service
+> signon-ui-x11
+> signond
+1967c3719
+< smartmontools
+---
+> simplyhtml
+1973c3725,3727
+< sonic-pi
+---
+> sonnet-plugins
+> soprano-daemon
+> sound-juicer
+1974a3729
+> sox
+1976a3732
+> speedcrunch
+1978a3735
+> ssh
+1980a3738,3740
+> stellarium
+> stellarium-data
+> step
+1989a3750,3752
+> swell-foop
+> swh-plugins
+> synaptic
+1999a3763,3764
+> tali
+> tango-icon-theme
+2003a3769
+> tcl8.5
+2006a3773,3779
+> telepathy-gabble
+> telepathy-haze
+> telepathy-idle
+> telepathy-logger
+> telepathy-mission-control-5
+> telepathy-rakia
+> telepathy-salut
+2007a3781,3790
+> tex-common
+> texlive-base
+> texlive-binaries
+> texlive-latex-base
+> texlive-latex-base-doc
+> thunar
+> thunar-archive-plugin
+> thunar-data
+> thunar-media-tags-plugin
+> thunar-volman
+2008a3792,3802
+> thunderbird-locale-af
+> thunderbird-locale-ar
+> thunderbird-locale-ast
+> thunderbird-locale-be
+> thunderbird-locale-bg
+> thunderbird-locale-bn
+> thunderbird-locale-bn-bd
+> thunderbird-locale-cs
+> thunderbird-locale-da
+> thunderbird-locale-de
+> thunderbird-locale-el
+2011a3806,3834
+> thunderbird-locale-es
+> thunderbird-locale-es-ar
+> thunderbird-locale-es-es
+> thunderbird-locale-fi
+> thunderbird-locale-fr
+> thunderbird-locale-ga
+> thunderbird-locale-ga-ie
+> thunderbird-locale-hu
+> thunderbird-locale-id
+> thunderbird-locale-is
+> thunderbird-locale-it
+> thunderbird-locale-ja
+> thunderbird-locale-ko
+> thunderbird-locale-nb
+> thunderbird-locale-nb-no
+> thunderbird-locale-nl
+> thunderbird-locale-nn
+> thunderbird-locale-nn-no
+> thunderbird-locale-pl
+> thunderbird-locale-pt
+> thunderbird-locale-pt-br
+> thunderbird-locale-pt-pt
+> thunderbird-locale-ro
+> thunderbird-locale-ru
+> thunderbird-locale-sv
+> thunderbird-locale-sv-se
+> thunderbird-locale-tr
+> thunderbird-locale-uk
+> thunderbird-locale-vi
+2018c3841,3842
+< timgm6mb-soundfont
+---
+> timidity
+> timidity-daemon
+2019a3844
+> tk8.5
+2022,2023c3847,3857
+< tlp
+< tlp-rdw
+---
+> tomboy
+> totem
+> totem-common
+> totem-plugins
+> traceroute
+> tracker
+> tracker-extract
+> tracker-gui
+> tracker-miner-fs
+> tracker-utils
+> transfig
+2025a3860
+> triggerhappy
+2026a3862,3867
+> ttf-bengali-fonts
+> ttf-dejavu
+> ttf-dejavu-core
+> ttf-dejavu-extra
+> ttf-devanagari-fonts
+> ttf-gujarati-fonts
+2027a3869,3876
+> ttf-kannada-fonts
+> ttf-liberation
+> ttf-malayalam-fonts
+> ttf-mscorefonts-installer
+> ttf-oriya-fonts
+> ttf-punjabi-fonts
+> ttf-tamil-fonts
+> ttf-telugu-fonts
+2028a3878,3888
+> tumbler
+> tumbler-common
+> tuxmath
+> tuxmath-data
+> tuxpaint
+> tuxpaint-config
+> tuxpaint-data
+> tuxpaint-plugins-default
+> tuxpaint-stamps-default
+> tuxtype
+> tuxtype-data
+2029a3890
+> tzdata-java
+2031a3893,3894
+> ubuntu-edu-primary
+> ubuntu-edu-tertiary
+2034d3896
+< ubuntu-mate-core
+2038,2039d3899
+< ubuntu-mate-libreoffice-draw-icons
+< ubuntu-mate-libreoffice-math-icons
+2043d3902
+< ubuntu-mate-wallpapers-common
+2046,2047d3904
+< ubuntu-mate-wallpapers-wily
+< ubuntu-mate-welcome
+2051a3909,3910
+> ubuntu-restricted-addons
+> ubuntu-restricted-extras
+2060a3920
+> udisks
+2061a3922
+> ufraw-batch
+2063a3925,3928
+> unity-asset-pool
+> unity-control-center
+> unity-control-center-signon
+> unity-greeter
+2065a3931,3932
+> unoconv
+> unrar
+2072a3940,3941
+> upstart
+> upstart-bin
+2082a3952,3954
+> v4l-utils
+> vcdimager
+> vim
+2083a3956,3958
+> vim-gnome
+> vim-gui-common
+> vim-runtime
+2084a3960,3961
+> vinagre
+> vino
+2087a3965
+> vlc-plugin-notify
+2088a3967,3968
+> vnc4server
+> voikko-fi
+2090a3971
+> wbrazilian
+2091a3973,3978
+> wbulgarian
+> wdanish
+> wdiff
+> wdutch
+> weston
+> wfrench
+2093a3981
+> whois
+2096a3985,3987
+> wirish
+> witalian
+> wmanx
+2097a3989,3990
+> wngerman
+> wnorwegian
+2098a3992,3993
+> wogerman
+> wpagui
+2099a3995,4000
+> wpolish
+> wportuguese
+> wspanish
+> wswedish
+> wswiss
+> wukrainian
+2103a4005
+> x11-xfs-utils
+2105a4008,4019
+> x11proto-composite-dev
+> x11proto-core-dev
+> x11proto-damage-dev
+> x11proto-fixes-dev
+> x11proto-input-dev
+> x11proto-kb-dev
+> x11proto-randr-dev
+> x11proto-render-dev
+> x11proto-xext-dev
+> x11proto-xinerama-dev
+> x2x
+> xarchiver
+2106a4021
+> xbase-clients
+2107a4023,4027
+> xboard
+> xbrlapi
+> xchat
+> xchat-common
+> xchat-indicator
+2111a4032,4088
+> xfburn
+> xfce-keyboard-shortcuts
+> xfce4
+> xfce4-appfinder
+> xfce4-artwork
+> xfce4-battery-plugin
+> xfce4-clipman
+> xfce4-clipman-plugin
+> xfce4-cpufreq-plugin
+> xfce4-cpugraph-plugin
+> xfce4-datetime-plugin
+> xfce4-dict
+> xfce4-diskperf-plugin
+> xfce4-fsguard-plugin
+> xfce4-genmon-plugin
+> xfce4-goodies
+> xfce4-indicator-plugin
+> xfce4-linelight-plugin
+> xfce4-mailwatch-plugin
+> xfce4-messenger-plugin
+> xfce4-mixer
+> xfce4-mount-plugin
+> xfce4-mpc-plugin
+> xfce4-netload-plugin
+> xfce4-notes
+> xfce4-notes-plugin
+> xfce4-notifyd
+> xfce4-panel
+> xfce4-panel-dev
+> xfce4-places-plugin
+> xfce4-power-manager
+> xfce4-power-manager-data
+> xfce4-power-manager-plugins
+> xfce4-quicklauncher-plugin
+> xfce4-radio-plugin
+> xfce4-screenshooter
+> xfce4-screenshooter-plugin
+> xfce4-sensors-plugin
+> xfce4-session
+> xfce4-settings
+> xfce4-smartbookmark-plugin
+> xfce4-systemload-plugin
+> xfce4-taskmanager
+> xfce4-terminal
+> xfce4-timer-plugin
+> xfce4-verve-plugin
+> xfce4-volumed
+> xfce4-wavelan-plugin
+> xfce4-weather-plugin
+> xfce4-whiskermenu-plugin
+> xfce4-wmdock-plugin
+> xfce4-xkb-plugin
+> xfconf
+> xfdesktop4
+> xfdesktop4-data
+> xfonts-100dpi
+> xfonts-75dpi
+2113a4091
+> xfonts-mathml
+2115a4094,4095
+> xfwm4
+> xfwm4-themes
+2119a4100,4104
+> xmms2-core
+> xmms2-plugin-alsa
+> xmms2-plugin-id3v2
+> xmms2-plugin-mad
+> xmms2-plugin-vorbis
+2121a4107,4114
+> xorg-sgml-doctools
+> xpdf
+> xplanet
+> xplanet-images
+> xrdp
+> xscreensaver
+> xscreensaver-data
+> xscreensaver-gl
+2122a4116
+> xserver-xephyr
+2129a4124
+> xserver-xorg-video-armsoc-exynos
+2132,2134c4127,4138
+< xul-ext-calendar-timezones
+< xul-ext-gdata-provider
+< xul-ext-lightning
+---
+> xserver-xorg-video-vesa
+> xterm
+> xtrans-dev
+> xubuntu-artwork
+> xubuntu-community-wallpapers
+> xubuntu-core
+> xubuntu-default-settings
+> xubuntu-desktop
+> xubuntu-docs
+> xubuntu-icon-theme
+> xubuntu-wallpapers
+> xul-ext-mozvoikko
+2135a4140
+> xvt
+2140,2141c4145,4147
+< youtube-dl
+< youtube-dlg
+---
+> yorick
+> yorick-data
+> yorick-z
+2142a4149,4151
+> zeitgeist
+> zeitgeist-core
+> zeitgeist-datahub
+2146a4156
+> zlib1g-dev

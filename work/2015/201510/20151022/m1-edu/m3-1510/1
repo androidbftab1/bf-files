@@ -1,0 +1,877 @@
+8,10d7
+< apg
+< app-install-data
+< app-install-data-partner
+19d15
+< apt-xapian-index
+22,24d17
+< aptitude
+< aptitude-common
+< aptitude-doc-en
+32a26,28
+> autoconf
+> automake
+> autotools-dev
+45a42
+> blt
+57d53
+< btrfs-tools
+70,71d65
+< cgmanager
+< cheese-common
+76,81d69
+< compiz
+< compiz-core
+< compiz-gnome
+< compiz-mate
+< compiz-plugins
+< compiz-plugins-default
+87d74
+< cpp-4.9
+89,90d75
+< cpufrequtils
+< cracklib-runtime
+105a91
+> curl
+123d108
+< devio
+127d111
+< diffstat
+129d112
+< dmeventd
+131d113
+< dmraid
+147a130
+> enchant
+155,157d137
+< evolution-data-server
+< evolution-data-server-common
+< evolution-data-server-online-accounts
+161c141,143
+< fakeroot
+---
+> fake-hwclock
+> fbset
+> ffmpeg
+166d147
+< flash-kernel
+214d194
+< gcc-4.9-base
+226,227d205
+< geoclue
+< geoclue-ubuntu-geoip
+238d215
+< gir1.2-gconf-2.0
+241d217
+< gir1.2-gmenu-3.0
+247d222
+< gir1.2-ibus-1.0
+263d237
+< gkbd-capplet
+268d241
+< gnome-bluetooth
+270d242
+< gnome-desktop3-data
+274d245
+< gnome-menus
+276d246
+< gnome-session-bin
+278d247
+< gnome-settings-daemon-schemas
+280d248
+< gnome-user-share
+282d249
+< gparted
+290,294d256
+< gstreamer0.10-alsa
+< gstreamer0.10-nice
+< gstreamer0.10-plugins-base
+< gstreamer0.10-plugins-good
+< gstreamer0.10-pulseaudio
+296d257
+< gstreamer1.0-clutter
+317,318d277
+< hardening-includes
+< hddtemp
+320d278
+< heirloom-mailx
+323,325d280
+< hexchat-perl
+< hexchat-plugins
+< hexchat-python
+332a288
+> i2c-tools
+339,341d294
+< indicator-datetime
+< indicator-keyboard
+< indicator-power
+353c306
+< intltool-debian
+---
+> intltool
+355d307
+< ippusbxd
+365a318,319
+> jackd
+> jackd2
+372,373d325
+< kpartx
+< kpartx-boot
+375,376d326
+< language-pack-en
+< language-pack-en-base
+383d332
+< libabw-0.1-1
+388,391d336
+< libalgorithm-c3-perl
+< libalgorithm-diff-perl
+< libalgorithm-diff-xs-perl
+< libalgorithm-merge-perl
+396d340
+< libapt-inst1.5
+398,399d341
+< libapt-pkg-perl
+< libapt-pkg4.12
+401,402d342
+< libarchive-extract-perl
+< libarchive-zip-perl
+421d360
+< libatkmm-1.6-1
+432d370
+< libauthen-sasl-perl
+441c379,380
+< libavcodec56
+---
+> libavdevice-ffmpeg56
+> libavfilter-ffmpeg5
+443,444c382
+< libavformat56
+< libavresample2
+---
+> libavresample-ffmpeg2
+446,448d383
+< libavutil54
+< libb-hooks-endofscope-perl
+< libb-hooks-op-check-perl
+450d384
+< libbareword-filehandles-perl
+452a387,388
+> libblas-common
+> libblas3
+456d391
+< libboost-date-time1.55.0
+458d392
+< libboost-filesystem1.55.0
+460d393
+< libboost-iostreams1.55.0
+462c395,396
+< libboost-system1.55.0
+---
+> libboost-program-options1.58.0
+> libboost-regex1.58.0
+463a398
+> libboost-thread1.58.0
+465a401
+> libbs2b0
+477d412
+< libcairomm-1.0-1
+480d414
+< libcamel-1.2-52
+496d429
+< libcdr-0.1-1
+498,502d430
+< libcgi-fast-perl
+< libcgi-pm-perl
+< libcgmanager0
+< libcheese-gtk23
+< libcheese7
+504,511c432
+< libclass-accessor-perl
+< libclass-c3-perl
+< libclass-c3-xs-perl
+< libclass-method-modifiers-perl
+< libclass-xsaccessor-perl
+< libclone-perl
+< libcloog-isl4
+< libclucene-contribs1
+---
+> libck-connector0
+513d433
+< libclucene-core1
+515,519d434
+< libclutter-1.0-0
+< libclutter-1.0-common
+< libclutter-gst-2.0-0
+< libclutter-gtk-1.0-0
+< libcmis-0.5-5
+521,524d435
+< libcogl-common
+< libcogl-pango20
+< libcogl-path20
+< libcogl20
+529d439
+< libcompizconfig0
+532,533d441
+< libcpan-changes-perl
+< libcpan-meta-perl
+535d442
+< libcrack2
+546,547c453
+< libcwidget3
+< libcwidget3v5
+---
+> libcwiid1
+549,551d454
+< libdata-optlist-perl
+< libdata-perl-perl
+< libdata-section-perl
+564d466
+< libdecoration0
+566,569d467
+< libdevel-caller-perl
+< libdevel-globaldestruction-perl
+< libdevel-lexalias-perl
+< libdevmapper-event1.02.1
+571d468
+< libdigest-hmac-perl
+576d472
+< libdmraid1.0.0.rc16
+588d483
+< libdvbpsi9
+591d485
+< libdw1
+593,594d486
+< libebackend-1.2-10
+< libebml4
+596,599d487
+< libebook-1.2-16
+< libebook-contacts-1.2-1
+< libecal-1.2-18
+< libecryptfs0
+601,603d488
+< libedata-book-1.2-25
+< libedata-cal-1.2-27
+< libedataserver-1.2-20
+608d492
+< libemail-valid-perl
+621d504
+< libexiv2-13
+624c507
+< libexporter-tiny-perl
+---
+> libexpat1-dev
+629,630d511
+< libfakeroot
+< libfarstream-0.1-0
+632,635d512
+< libfcgi-perl
+< libfcitx-config4
+< libfcitx-gclient0
+< libfcitx-utils0
+640d516
+< libfile-basedir-perl
+642d517
+< libfile-fcntllock-perl
+644d518
+< libfile-slurp-perl
+645a520,521
+> libflite1
+> libfluidsynth1
+675,676d550
+< libgdata-common
+< libgdata22
+683d556
+< libgeocode-glib0
+685d557
+< libgetopt-long-descriptive-perl
+688a561,562
+> libgfortran3
+> libgif4
+702d575
+< libglibmm-2.4-1c2a
+703a577
+> libglu1-mesa
+707,710d580
+< libgnome-bluetooth11
+< libgnome-bluetooth13
+< libgnome-control-center1
+< libgnome-desktop-3-10
+713,715d582
+< libgnome-menu-3-0
+< libgnomekbd-common
+< libgnomekbd8
+718,719d584
+< libgoa-1.0-0b
+< libgoa-1.0-common
+725d589
+< libgphoto2-port10
+752d615
+< libgtkmm-2.4-1c2a
+765d627
+< libguvcview-1.0-0
+767,768d628
+< libgweather-3-6
+< libgweather-common
+775d634
+< libhogweed2
+789d647
+< libibus-1.0-5
+792d649
+< libicu52
+802d658
+< libimport-into-perl
+805,806d660
+< libindirect-perl
+< libinput10
+808,809d661
+< libio-pty-perl
+< libio-socket-inet6-perl
+811,814d662
+< libio-string-perl
+< libio-stringy-perl
+< libipc-run-perl
+< libipc-system-simple-perl
+832a681
+> libjs-jquery
+833a683
+> libjs-prettify
+848a699
+> liblapack3
+853d703
+< liblexical-sealrequirehints-perl
+856d705
+< liblist-moreutils-perl
+858d706
+< libllvm3.6
+861,864d708
+< liblockfile-bin
+< liblockfile1
+< liblog-message-perl
+< liblog-message-simple-perl
+869d712
+< liblvm2cmd2.02
+877d719
+< libmailtools-perl
+892d733
+< libmatroska6
+898,899d738
+< libmetacity-private2
+< libmetacity-private3
+900a740
+> libmikmod3
+902d741
+< libmirclient8
+904d742
+< libmircommon3
+906d743
+< libmirprotobuf0
+912,918d748
+< libmodule-build-perl
+< libmodule-implementation-perl
+< libmodule-pluggable-perl
+< libmodule-runtime-perl
+< libmodule-signature-perl
+< libmoo-perl
+< libmoox-handlesvia-perl
+926c756
+< libmro-compat-perl
+---
+> libmpg123-0
+932,933d761
+< libmultidimensional-perl
+< libmwaw-0.3-3
+936,937d763
+< libnamespace-autoclean-perl
+< libnamespace-clean-perl
+945,946d770
+< libnet-dns-perl
+< libnet-domain-tld-perl
+948,949d771
+< libnet-ip-perl
+< libnet-smtp-ssl-perl
+952d773
+< libnettle4
+976,977d796
+< liboauth0
+< libodfgen-0.1-1
+980a800,803
+> libopenal-data
+> libopenal1
+> libopencv-core2.4v5
+> libopencv-imgproc2.4v5
+982d804
+< libopenobex1
+990,992d811
+< libpackage-constants-perl
+< libpackage-stash-perl
+< libpackage-stash-xs-perl
+994d812
+< libpadwalker-perl
+1007d824
+< libpangomm-1.4-1
+1013,1016d829
+< libparams-classify-perl
+< libparams-util-perl
+< libparams-validate-perl
+< libparse-debianchangelog-perl
+1019d831
+< libpath-tiny-perl
+1029c841
+< libperlio-gzip-perl
+---
+> libpgm-5.1-0
+1035d846
+< libplist2
+1039,1041d849
+< libpod-latex-perl
+< libpod-markdown-perl
+< libpod-readme-perl
+1046d853
+< libpoppler49
+1049a857
+> libportmidi0
+1051d858
+< libpostproc52
+1054,1055d860
+< libprotobuf9
+< libprotobuf9v5
+1057d861
+< libproxy1
+1066,1067c870
+< libpwquality-common
+< libpwquality1
+---
+> libpython-dev
+1069a873
+> libpython2.7-dev
+1071a876
+> libpython3-dev
+1073a879
+> libpython3.4-dev
+1075a882,883
+> libpython3.5-minimal
+> libpython3.5-stdlib
+1078d885
+< libqpdf13
+1079a887,888
+> libqscintilla2-11
+> libqscintilla2-l10n
+1082,1083d890
+< libqt4-designer
+< libqt4-help
+1086d892
+< libqt4-scripttools
+1088,1089d893
+< libqt4-svg
+< libqt4-test
+1097d900
+< libqtassistantclient4
+1106c909,910
+< libraspberrypi-bin-nonfree
+---
+> libraspberrypi-dev
+> libraspberrypi-doc
+1112d915
+< libreadline5
+1114d916
+< libregexp-common-perl
+1133d934
+< librhythmbox-core8
+1136d936
+< librole-tiny-perl
+1139a940,941
+> librtimulib-utils
+> librtimulib7
+1140a943
+> libruby2.1
+1149a953
+> libscsynth1
+1150a955,956
+> libsdl-mixer1.2
+> libsdl-ttf2.0-0
+1164d969
+< libsidplay2
+1166d970
+< libsigc++-2.0-0c2a
+1173a978
+> libsmpeg0
+1177,1178c982
+< libsocket6-perl
+< libsoftware-license-perl
+---
+> libsodium13
+1196,1201d999
+< libstrictures-perl
+< libsub-exporter-perl
+< libsub-exporter-progressive-perl
+< libsub-identify-perl
+< libsub-install-perl
+< libsub-name-perl
+1204d1001
+< libswscale3
+1206d1002
+< libtag1-vanilla
+1213d1008
+< libterm-ui-perl
+1217,1219d1011
+< libtext-levenshtein-perl
+< libtext-soundex-perl
+< libtext-template-perl
+1232d1023
+< libtry-tiny-perl
+1235,1236d1025
+< libtype-tiny-perl
+< libtype-tiny-xs-perl
+1240d1028
+< libunicode-utf8-perl
+1246d1033
+< libunity-settings-daemon1
+1257d1043
+< libuuid-perl
+1264d1049
+< libvariable-magic-perl
+1265a1051
+> libvdpau1
+1267a1054
+> libvisual-0.4-plugins
+1270d1056
+< libvncclient0
+1275d1060
+< libvpx1
+1283,1285d1067
+< libwacom-bin
+< libwacom-common
+< libwacom2
+1327d1108
+< libwps-0.3-3
+1331a1113,1115
+> libwxbase2.8-0
+> libwxgtk-media2.8-0
+> libwxgtk2.8-0
+1334d1117
+< libx11-protocol-perl
+1336d1118
+< libx264-142
+1339,1340d1120
+< libxapian22
+< libxapian22v5
+1357d1136
+< libxcb-util0
+1382d1160
+< libxp6
+1397a1176
+> libyaml-0-2
+1400a1180
+> libzmq3
+1406,1407d1185
+< lintian
+< linux-base
+1409,1412c1187
+< linux-goldfish-tools-3.4.0-4
+< linux-image-3.18.0-20-rpi2
+< linux-image-3.18.0-25-rpi2
+< linux-image-rpi2
+---
+> linux-firmware-nonfree
+1415,1418d1189
+< linux-tools-3.4.0-4-goldfish
+< linux-tools-common
+< linux-tools-goldfish
+< lm-sensors
+1420d1190
+< lockfile-progs
+1429c1199
+< lvm2
+---
+> m4
+1452d1221
+< mate-media-pulse
+1475d1243
+< mate-settings-daemon-pulse
+1489d1256
+< metacity-common
+1491c1258
+< mir-client-platform-mesa2
+---
+> minecraft-pi
+1495d1261
+< module-init-tools
+1498d1263
+< mousetweaks
+1499a1265
+> mplayer2
+1502a1269
+> musescore-soundfont-gm
+1504d1270
+< nautilus-data
+1506a1273
+> ncurses-term
+1513a1281
+> notification-daemon
+1516,1517c1284
+< ntpdate
+< obex-data-server
+---
+> nuscratch
+1519a1287
+> oem-config-slideshow-ubuntu-mate
+1523,1524d1290
+< oneconf
+< oneconf-common
+1526a1293,1294
+> openssh-server
+> openssh-sftp-server
+1532,1533d1299
+< packagekit
+< packagekit-backend-aptcc
+1537d1302
+< patchutils
+1547d1311
+< pinentry-gnome3
+1560d1323
+< policykit-1-gnome
+1590d1352
+< python-apt
+1592,1593c1354
+< python-aptdaemon
+< python-aptdaemon.gtk3widgets
+---
+> python-astropi
+1595d1355
+< python-blinker
+1600,1602d1359
+< python-cffi
+< python-cffi-backend
+< python-characteristic
+1605c1362,1364
+< python-commandnotfound
+---
+> python-codebug-i2c-tether
+> python-codebug-tether
+> python-colorama
+1608d1366
+< python-cryptography
+1611,1615c1369,1371
+< python-debian
+< python-debtagshw
+< python-defer
+< python-dirspec
+< python-enum34
+---
+> python-dev
+> python-distlib
+> python-distutils-extra
+1618d1373
+< python-gi-cairo
+1622d1376
+< python-gst0.10
+1625,1629c1379
+< python-httplib2
+< python-idna
+< python-imaging
+< python-ipaddress
+< python-jwt
+---
+> python-html5lib
+1631d1380
+< python-libxml2
+1633d1381
+< python-lxml
+1634a1383
+> python-minecraftpi
+1637d1385
+< python-notify
+1639,1641c1387,1389
+< python-oauthlib
+< python-oneconf
+< python-openssl
+---
+> python-numpy
+> python-pexpect
+> python-picamera
+1643c1391
+< python-piston-mini-client
+---
+> python-pip
+1645,1650c1393,1394
+< python-ply
+< python-pyasn1
+< python-pyasn1-modules
+< python-pycparser
+< python-qt4
+< python-qt4-dbus
+---
+> python-ptyprocess
+> python-pygame
+1651a1396,1397
+> python-rpi.gpio
+> python-rtimulib
+1653,1654c1399,1401
+< python-service-identity
+< python-sip
+---
+> python-sense-hat
+> python-serial
+> python-setuptools
+1655a1403,1404
+> python-spidev
+> python-support
+1658,1661c1407
+< python-twisted-bin
+< python-twisted-core
+< python-twisted-web
+< python-ubuntu-sso-client
+---
+> python-tk
+1663c1409,1411
+< python-xapian
+---
+> python-wheel
+> python-wxgtk2.8
+> python-wxversion
+1666d1413
+< python-zope.interface
+1667a1415
+> python2.7-dev
+1675c1423
+< python3-blinker
+---
+> python3-astropi
+1678,1679d1425
+< python3-cffi
+< python3-cffi-backend
+1680a1427,1429
+> python3-codebug-i2c-tether
+> python3-codebug-tether
+> python3-colorama
+1683,1684d1431
+< python3-crypto
+< python3-cryptography
+1689a1437,1438
+> python3-dev
+> python3-distlib
+1694c1443
+< python3-httplib2
+---
+> python3-html5lib
+1696,1697d1444
+< python3-idna
+< python3-jwt
+1701a1449
+> python3-minecraftpi
+1703,1705c1451
+< python3-oauthlib
+< python3-oneconf
+< python3-packagekit
+---
+> python3-numpy
+1707a1454
+> python3-picamera
+1709c1456
+< python3-piston-mini-client
+---
+> python3-pip
+1711d1457
+< python3-ply
+1713c1459
+< python3-pyasn1
+---
+> python3-ptyprocess
+1715d1460
+< python3-pycparser
+1720a1466,1470
+> python3-rpi.gpio
+> python3-rtimulib
+> python3-sense-hat
+> python3-serial
+> python3-setuptools
+1724a1475,1476
+> python3-spidev
+> python3-tk
+1726a1479
+> python3-wheel
+1729a1483
+> python3.4-dev
+1730a1485,1486
+> python3.5
+> python3.5-minimal
+1731a1488
+> qjackctl
+1737,1738c1494
+< qttranslations5-l10n
+< raspberrypi-bootloader-nokernel
+---
+> raspberrypi-bootloader
+1739a1496
+> raspi-gpio
+1740a1498
+> read-edid
+1742d1499
+< rename
+1749c1506,1507
+< rpi2-ubuntu-errata
+---
+> rng-tools
+> rpi-update
+1752a1511,1514
+> rtmpdump
+> ruby
+> ruby2.1
+> rubygems-integration
+1756a1519
+> scratch
+1760d1522
+< session-migration
+1767d1528
+< smartmontools
+1769,1770d1529
+< software-center
+< software-center-aptdaemon-plugins
+1772a1532
+> sonic-pi
+1775a1536,1538
+> squeak-plugins-scratch
+> squeak-vm
+> ssh-import-id
+1778a1542,1547
+> supercollider
+> supercollider-common
+> supercollider-ide
+> supercollider-language
+> supercollider-server
+> supercollider-supernova
+1784d1552
+< systemd-shim
+1788d1555
+< t1utils
+1790,1791d1556
+< tasksel
+< tasksel-data
+1799a1565
+> timgm6mb-soundfont
+1801a1568
+> tk8.6-blt2.5
+1810d1576
+< u-boot-tools
+1824,1825d1589
+< ubuntu-mate-wallpapers-utopic
+< ubuntu-mate-wallpapers-vivid
+1833,1834d1596
+< ubuntu-sso-client
+< ubuntu-sso-client-qt
+1836,1838d1597
+< ubuntu-system-service
+< ubuntu-touch-sounds
+< ubuntuone-client-data
+1844d1602
+< unity-settings-daemon
+1869,1870d1626
+< wamerican
+< watershed
+1876c1632
+< wmctrl
+---
+> wiringpi
+1918a1675,1676
+> youtube-dl
+> youtube-dlg
